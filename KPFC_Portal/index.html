@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>KPFC Fire Portal Visualizer</title>
+
+    <link href="data/style.css" rel='stylesheet' />
+    <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/cerulean/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-C++cugH8+Uf86JbNOnQoBweHHAe/wVKN/mb0lTybu/NZ9sEYbd+BbbYtNpWYAsNP" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Work+Sans:400,500,600' rel='stylesheet' type='text/css'>
+    <link href='data/style2.css' rel='stylesheet' />
+    <style>
+    </style>
+
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="header bg-danger col-12 border border-dark">
+                <h1 class="text-center py-2 px-2" id="Top">
+                    Kentucky Prescribed Burning Activity
+                </h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-1 col-sm-2 col-md-3 border border-right border-dark">
+                <h3 class="positioning-absolute width-100% py-3 text-dark border-bottom border-py-4 border-gray">
+                    Prescribed Fires from 2013-2019
+                </h3>
+                <p class="text-s my-2 py-3 border-bottom border-gray">
+                    The Kentucky Prescribed Fire Council is an organization of Natural Resource Professionals across
+                    the Commonwealth that utilize prescribed fire as a tool for landscape management. Here is a visual interpretation of prescribed fires
+                    from across the bluegrass from 2013-2019 under the direction of registered Kentucky Burn Bosses.
+
+                    <p class="footer">
+                        <ul class="positioning-absolute ml-">
+                            <li>Data Courtesy of <a href="www.KentuckyPrescribedFireCouncil.com">Kentucky Prescribed
+                                    Fire
+                                    Council</a>.</li>
+                            <li>Check out my <a href="www.github.com/pratheriii>Github Profile">Github Profile</a></li>
+                        </ul>
+
+                    </p>
+            </div>
+            <div class="col-12 col-sm-10 col-md-9 border border-top border-dark">
+                <div id="map" class='position-absolute height-100%'>
+                    <div id="ui" class="dropdown">
+                        <a class="btn btn-danger dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            All Agencies
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink"></div>
+                    </div>
+                    <div>
+                        <div>
+                            <p id="value-time"></p>
+                        </div>
+                        <div>
+                            <div id="slider-time"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+    <script src="https://d3js.org/d3.v5.js"></script>
+    <script src="https://unpkg.com/topojson@3"></script>
+    <script src="https://unpkg.com/d3-simple-slider"></script>
+    <script>
+        //begin javascript functions
+        const countiesJson = d3.json('data/kentucky_counties.json');
+        const burnsCSV = d3.csv('data/burn_points.csv');
+
+        const mapContainer = d3.select('#map');
+
+        const width = mapContainer.node().offsetWidth - 60;
+        const height = mapContainer.node().offsetHeight - 60;
+
+        const svg = mapContainer
+            .append('svg')
+            .attr('width', width)
+            .attr('height', height)
+            .classed('position-absolute', true)
+            .style('top', 40)
+            .style('left', 40);
+
+        // Create  div for the tooltip and hide with opacity
+        const tooltip = d3.select('.container-fluid').append('div')
+            .attr('class', 'my-tooltip bg-danger text-white py-1 px-2 rounded position-absolute invisible');
+
+        mapContainer
+            .on('mousemove', event => {
+                // update the position of the tooltip
+                tooltip.style('left', (d3.event.pageX + 10) + 'px')
+                    .style('top', (d3.event.pageY - 30) + 'px');
+            });
+
+        // console.log(data);
+        Promise.all([countiesJson, burnsCSV])
+            .then(drawMap)
+            .catch(error => {
+                console.log(error)
+            });
+
+
+        function drawMap(data, burnPoints) {
+
+            console.log(data);
+            console.log(burnPoints);
+
+
+            const countiesData = data[0];
+            const burnsData = data[1];
+
+            // console.log(countiesData);
+
+            const countiesGeoJson = topojson.feature(countiesData, {
+                type: 'GeometryCollection',
+                geometries: countiesData.objects.kentucky_counties.geometries
+            });
+
+            const projection = d3.geoMercator()
+                .fitSize([width, height], countiesGeoJson);
+
+            const path = d3.geoPath()
+                .projection(projection);
+
+            const counties = svg.append('g')
+                .selectAll('path')
+                .data(countiesGeoJson.features)
+                .join('path')
+                .attr('d', path)
+                .attr('class', 'county');
+
+            // console.log(burnsData);
+            const radius = d3.scaleSqrt().domain([0, 4500]).range([1, 25]);
+
+            const color = d3.scaleOrdinal(d3.schemeDark2);
+
+
+            // const day = [];
+
+            const burns = svg.append('g') // append new g element
+                .selectAll('circle') // select all the circles
+                .data(burnsData.sort(function (a, b) {
+                    return b.AcresBurnUnit - a.AcresBurnUnit; // place the large ones on the bottom
+                }))
+                .join('circle') // join that data to circle elements
+                .attr('cx', d => { // feed the long/lat to the projection generator
+                    d.position = projection([d.Long, d.Lat]); // create a new data attribute
+                    return d.position[0]; // position the x
+                })
+                .attr('cy', d => {
+                    return d.position[1]; // position the y
+                })
+                .attr('r', d => {
+                    return radius(+d.AcresBurnUnit);
+                })
+                .style('fill', d => {
+                    if (d.AgencyName == 'University of Kentucky') {
+                        "blue"
+                    } else return color(d.AgencyName);
+                })
+                .attr('class', 'burn')
+                .attr('date', d => d.DateBurn)
+                .attr('day', d => Date.parse(d.DateBurn))
+                .attr('agency', d => d.AgencyName);
+            // .attr('day', d => {d.DateBurn.parse}; // give each circle a class name
+
+            // console.log(day);
+
+            // applies event listeners to our polygons for user interaction
+            burns.on('mouseover', (d, i, nodes) => { // when mousing over an element
+                    // console.log(d);
+                    const name = d.BurnName;
+                    const date = d.DateBurn;
+                    const agency = d.AgencyName;
+                    const locations = d.CountyName;
+                    const inCharge = d.InChangeOfName;
+
+                    d3.select(nodes[i]).classed('hover', true).attr('stroke', 'black').raise();
+                    //   console.log(d); // select it, add a class name, and bring to front
+                    tooltip.classed('invisible', false).html("<g>" + date + "<br>" + agency + "<br>" + locations +
+                        " County <br>" +
+                        inCharge + "</g>");
+                })
+                .on('mouseout', (d, i, nodes) => { // when mousing out of an element
+                    d3.select(nodes[i]).classed('hover', false).attr('stroke', null)
+                        .lower(); // remove the class from the polygon
+                    tooltip.classed('invisible', true) // hide the element 
+                });
+
+            filterByAttribute(burnsData, burns);
+            sliderUpdate(burnsData, burns, burnPoints);
+            drawLegend(svg, width, height, radius);
+
+
+            function filterByAttribute(burnsData, burns) {
+
+                var uniqueTypes = [];
+
+                burnsData.forEach(function (burn) {
+                    if (!uniqueTypes.includes(burn.AgencyName)) {
+                        uniqueTypes.push(burn.AgencyName);
+                    }
+                });
+
+                // console.log(uniqueTypes);
+
+                uniqueTypes.sort();
+
+                uniqueTypes.unshift('All Agencies');
+
+                // console.log(uniqueTypes);
+                d3.select('#ui .dropdown-menu').selectAll('a')
+                    .data(uniqueTypes) // use array as data
+                    .join('a') // append a new option element for each data item
+                    .text(d => {
+                        return d // use the item as text
+                    })
+                    .attr('value', d => {
+                        return d // use the time -- This part here threw me off. There is not time value. as value attribute
+                    })
+                    .attr('href', '#')
+                    .classed('dropdown-item', true)
+                    .on('click', onchange); // when the user clgicks call onchange function
+                ;
+
+                function onchange() {
+                    // get the currently selected value
+                    let val = d3.select(this).attr('value');
+                    // console.log(val);
+                    // console.log(facilities);
+
+                    // change the display property for each circle
+                    burns.style('display', d => {
+                        if (val === 'All Agencies') return 'inline';
+                        if (d.AgencyName != val) return 'none';
+                    });
+
+                    burns.attr('class', 'burn');
+
+                    d3.select('#ui > a').html(val); // update the UI with current val
+                };
+            };
+
+            function sliderUpdate(burnsData, burns) {
+                // Time
+                var sinceEpoch = [];
+
+                burnsData.forEach(burn => {
+                    if (!sinceEpoch.includes(burn.DateBurn)) {
+                        sinceEpoch.push(Date.parse(burn.DateBurn));
+                    }
+                });
+
+                const yearFormat = d3.timeFormat('%Y');
+
+                const min = (d3.min(sinceEpoch));
+                const max = (d3.max(sinceEpoch));
+                // console.log(max);
+                const fifth = ((max - min) / 5);
+                // console.log(fifth);
+                // Time
+                sliderBreaks = [];
+                sliderBreaks.push(new Date(min));
+                sliderBreaks.push(new Date(min + fifth));
+                //   console.log(sliderBreaks);
+                sliderBreaks.push(new Date(min + (fifth + fifth)));
+                //   console.log(sliderBreaks);
+                sliderBreaks.push(new Date(min + (fifth * 3)));
+                sliderBreaks.push(new Date(min + (fifth * 4)));
+                sliderBreaks.push(new Date(max));
+
+                // const burnPoints = d3.select('svg').select('g[1]')
+                // var burnDays = circles.forEach(console.log(attributes.day));
+                // circles.forEach(console.log(day));
+
+
+                var sliderTime = d3
+                    .sliderBottom()
+                    .min(d3.min(sinceEpoch))
+                    .max(d3.max(sinceEpoch))
+                    .step(fifth)
+                    .width(200)
+                    .tickFormat(d3.timeFormat('%Y'))
+                    .tickValues(sliderBreaks)
+                    .default(new Date(min))
+                    .on('onchange', val => {
+                        d3.select('p#value-time').text(d3.timeFormat('%Y')(val));
+                        sliderChange(yearFormat(val));
+                    });
+
+
+                // console.log(d);
+                //     // if (d == max) return 'inline';
+                //     if (burns.day > d) return 'none';
+                // });
+
+
+                var gTime = d3
+                    .select('div#slider-time')
+                    .append('svg')
+                    .attr('width', 350)
+                    .attr('height', 100)
+                    .append('g')
+                    .attr('transform', 'translate(30,10)');
+
+                gTime.call(sliderTime);
+
+                d3.select('p#value-time').text(d3.timeFormat('%Y')(sliderTime.value()));
+
+                sliderChange();
+
+
+                function sliderChange(val) {
+
+                    const burnPoints = d3.selectAll('.burn');
+
+                    burnPoints.classed('hide', (d) => {
+                        if (d.DateBurn.slice(-4) == val) {
+                            return false;
+                        } else {
+                            return true;
+                        }
+                    })
+
+                }
+            }
+
+            function onchange() {
+                // get the currently selected value
+                let val = d3.select(this).attr('value');
+                // console.log(val);
+                // console.log(facilities);
+
+                // change the display property for each circle
+                facilities.style('display', d => {
+                    if (val === 'All facilities') return 'inline';
+                    if (d.Industry_Type != val) return 'none';
+                });
+
+                d3.select('#ui > a').html(val); // update the UI with current val
+            };
+        };
+
+        function drawLegend(svg, width, height, radius) {
+
+            const legend = svg.append('g')
+                .attr('dy', '1.3em')
+                .attr('class', 'legend')
+                .attr('transform', 'translate(' + (width - 40) + ',' + (height - 20) + ')')
+                .selectAll('g')
+                .data([400, 4000])
+                .join('g');
+
+            legend.append('circle')
+                .attr('cy', d => {
+                    return -radius(d);
+                })
+                .attr('r', radius);
+
+            legend.append('text')
+                .attr('y', d => {
+                    return -2 * radius(d);
+                })
+                .attr('dy', '-.5em')
+                .text(d3.format('.1s'));
+
+            legend.append('text')
+                .attr('y', 16)
+                .text('Acres')
+        }
+    </script>
+</body>
+
+</html>
