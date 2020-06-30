@@ -4,8 +4,9 @@ body {
   }
 
 h3 #about-header {
-  text: black;
+  font: black;
 }
+
 
 #map {
   width:100%;
@@ -17,7 +18,8 @@ h3 #about-header {
 
 .county {
   fill-opacity: 50%;
-  fill: rgb(78, 78, 78);
+  fill: rgb(133, 133, 133);
+  stroke: rgb(41, 41, 41);
 }
 
 .burn {
