@@ -1,0 +1,668 @@
+DateBurn,BurnName,Lat,Long,CountyName,InChangeOfName,AgencyName,AcresBurnUnit,AcresBurnPercent,FuelType,MoistureCondition,Method,,,CrewSize,FireComplexity,FuelModel,RecentBurnDate,LandType
+1/21/2015,Piney Camp Ground,36.486,-88.038,Trigg,Bill Ryan,USFS,169,100,Litter - Moderate,10,Hand,,,8,Low,16,2/17/2010,
+4/1/2019,Spengler,36.508917,-88.112139,Calloway,Wes McFaddin,KDFWR,31,90,Shrub - Light,Unknown,Hand,,,8,Low,6,3/11/2010,
+3/13/2014,Roberts,36.51558333,-88.68852778,Graves,Wes McFaddin,KDFWR,151,70,Grass - Moderate,Unknown,Hand,,,12,Moderate,31,3/3/2011,
+3/13/2014,Morris,36.51916667,-88.63611111,Graves,Wes McFaddin,KDFWR,50,95,Grass - Heavy,Unknown,Hand,,,9,Low,6,8/14/2008,
+3/13/2014,Morris,36.51916667,-88.63611111,Graves,Wes McFaddin,KDFWR,50,95,Grass - Heavy,Unknown,Hand,,,6,Low,11,9/4/2010,
+3/13/2014,Kelly,36.53305556,-88.64055556,Graves,Wes McFaddin,KDFWR,15,90,Grass - Light,Unknown,Hand,,,6,Low,3,8/23/2012,
+4/1/2019,Thorton,36.61627,-88.25874,Calloway,Wes McFaddin,KDFWR,35,100,Grass - Heavy,Unknown,Hand,,,6,Low,11,4/4/2011,
+4/23/2015,Cemetery Ridge,36.64,-87.94,Trigg,Dennis Wilson,USFS,2731,70,Litter - Moderate,11,Aerial,,,12,Low,12,3/4/2011,
+4/22/2019,Jeremy Waters,36.655182,-84.395609,McCreary,Chris Mason,KDFWR,19,95,Litter - Moderate,Unknown,Hand,,,6,Low,5,4/12/2011,
+4/2/2019,Sugar Creek,36.67544,-88.17225,Calloway,Wes McFaddin,KDFWR,10,80,Litter - Light,Unknown,Hand,,,10,Low,5,3/2/2011,
+4/1/2019,Derting Property,36.6799,-88.2115,Calloway,Wes McFaddin,KDFWR,19.5,100,Grass - Heavy,Unknown,Hand,,,7,Low,3,4/1/2011,
+3/9/2016,Indian Knob / Gilreath,36.7061,-84.4142,McCreary,Mike Tapley,USFS,2620,65,Litter - Moderate,8,Aerial,,,5,Low,7,3/5/2012,
+4/2/2019,Wilkins,36.70994,-88.70994,Graves,Wes McFaddin,KDFWR,100,100,Grass - Moderate,Unknown,Hand,,,5,Low,7,3/6/2012,
+3/24/2015,Prewitt,36.71,-84.39,McCreary,Alison Coons,USFS,232,85,Litter - Moderate,9,Aerial,,,7,Low,7,3/6/2012,
+3/20/2014,Marsh Creek,36.71972,-84.366,McCreary,Alison Coons,USFS,437,95,Litter - Moderate,14,Hand,,,13,Low,4,3/20/2012,
+3/8/2016,Duck Run,36.727699,-84.34435,McCreary,Mike Tapley,USFS,1840,75,Litter - Moderate,8,Aerial,,,15,Low,4,3/6/2012,
+4/1/2014,Shop Branch,36.75,-84.3083,McCreary,Dwayne Wright,USFS,880,90,Litter - Moderate,10,Aerial,,,13,Moderate,31,1/6/2012,
+3/7/2016,Alum,36.7523754,-84.51955,McCreary,Mike Tapley,USFS,882,70,Litter - Moderate,10,Aerial,,,0,Moderate,17,8/14/2012,
+3/18/2015,Crow Creek,36.76,-84.32,Whitley,Leif Meadows,USFS,1596,70,Litter - Moderate,9,Aerial,,,6,Moderate,3,4/7/2010,
+3/20/2014,Mohler,36.76472222,-88.34194444,Marshall,Wes McFaddin,KDFWR,30,85,Grass - Heavy,Unknown,Hand,,,6,Moderate,3,4/7/2010,
+11/14/2014,Golden Pond Visior Center,36.77,-88.06,Trigg,Andy Pascarella,USFS,31,85,Litter - Moderate,12,Hand,,,6,Moderate,3,4/6/2010,
+11/14/2014,Golden Pond Visitor Center,36.77,-88.06,Trigg,Andy Pascarella,USFS,31,85,Litter - Moderate,12,Hand,,,6,Moderate,3,2/6/2012,
+1/28/2015,Gator Pit,36.77,-88.08,Trigg,Bill Ryan,USFS,40,100,Shrub - Light,10,Hand,,,6,Low,6,3/15/2013,
+3/9/2018,Barren Fork/Flat Rock,36.7815,-84.4567,McCreary,M.Tapley,USFS,1439,100,Litter - Moderate,11,Aerial,,,10,Low,1,2/28/2011,
+4/1/2014,Brushy Creek,36.7848,-84.3713,McCreary,Alison Coons,USFS,1225,90,Litter - Moderate,10,Aerial,,,Crew,Low,3,3/6/2012,Private
+2/27/2018,Beulah Heights,36.7883,-84.43464,McCreary,Alison Coons,USFS,780,100,Litter - Moderate,10,Aerial,,,10,Low,3,3/6/2012,Private
+3/3/2018,Chestnut Flats,36.7912,-84.41005,McCreary,Alison Coons,USFS,345,100,Litter - Moderate,10,Aerial,,,10,Low,2,1/14/2014,Public
+3/5/2017,Cotton Patch,36.798982,-84.5532,McCreary,Stearns RD,USFS,761,70,Litter - Moderate,6,Aerial,,,6,Low,9,3/15/2011,Public
+4/10/2013,None,36.81388889,-84.53305556,McCreary,Coons,USFS,1370,80,Litter - Moderate,30,Aerial,,,8,Low,13,10/15/2011,Public
+3/24/2015,Slick Shoals/Buzzard,36.82,-84.32,Whitley,Leif Meadows,USFS,4030,60,Litter - Moderate,10,Aerial,,,6,Low,7,,Private
+1/30/2015,Energy Lake,36.855,-88.02,Trigg,Bill Ryan,USFS,43,100,Litter - Moderate,8,Hand,,,6,Low,7,,Private
+4/23/2014,BRSP,36.86,-86.068,Barren,Wayne Tamminga,KDFWR,7.9,100,Grass - Moderate,12,Hand,,,12,Low,8,,Public
+3/3/2018,Big Dog,36.86448,-84.282,Whitley,Joel Basch,USFS,2067,100,Litter - Moderate,10,Aerial,,,12,Low,8,,Public
+4/1/2019,David Dell'Aquila,36.870364,-85.442292,Cumberland,Chris Mason,KDFWR,8,90,Grass - Moderate,Unknown,Hand,,,6,Low,5,2/14/2013,Public
+1/26/2018,Big Swag,36.8722,-84.42777,Whitley,M. Tapley,USFS,5,100,Litter - Moderate,9,Hand,,,10,Moderate,31,,Public
+2/5/2015,Big Swag,36.873,-84.423,McCreary,Mike Tapley,USFS,5,100,Grass - Moderate,8,Hand,,,6,Low,5,2/11/2013,Public
+2/29/2016,Big Swag,36.8731,-84.4244,McCreary,Michael Tapley,USFS,5,95,Grass - Moderate,8,Hand,,,12,Low,3,,Public
+4/1/2019,David Dell'Aquila,36.87322,-8544045,Cumberland,Chris Mason,KDFWR,141,85,Litter - Moderate,Unknown,Hand,,,20,,31,3/31/2010,Public
+3/18/2015,Shelton/Copperas,36.88,-84.54,McCreary,Alison Coons,USFS,1088,70,Litter - Moderate,10,Aerial,,,15,Moderate,31,,Public
+3/10/2014,Big Swag,36.8805,-84.4277,McCreary,Alison Coons,USFS,5,100,Grass - Moderate,12,Hand,,,10,Moderate,6,3/9/2013,Public
+3/4/2018,Curd Garden South,36.88523,-84.3065,Whitley,Joel Basch,USFS,483,100,Litter - Moderate,9,Aerial,,,4,Low,6,3/9/2013,Public
+3/9/2018,Curd Garden South 7,36.88523,-84.3065,Whitley,J. Basch,USFS,226,100,Litter - Light,10,Aerial,,,12,Moderate,31,11/12/2009,Public
+3/9/2018,Curd Garden South 8,36.88523,-84.3065,Whitley,Joel Basch,USFS,882,100,Litter - Moderate,9,Aerial,,,12,Low,4,,Public
+4/23/2014,Army Corps of Engineers Dam,36.891,-86.125,Barren,Wayne Tamminga,KDFWR,30.7,100,Grass - Heavy,10,Hand,,,12,Low,5,,Public
+2/20/2018,North Curd # 4,36.89551,-84.2887,Whitley,Leif Meadows,USFS,418,100,Litter - Moderate,9,Aerial,,,12,Low,5,,Public
+3/15/2018,"North Curd 3,6",36.89551,-84.2885,Whitley,Joel Basch,USFS,716,100,Litter - Moderate,11,Aerial,,,12,Low,5,,Public
+11/20/2013,Liz Worley,36.9005,-84.50416,McCreary,Dwayne Wright,USFS,301,85,Litter - Moderate,10,Hand,,,12,Low,5,,Public
+1/30/2015,Nature Station,36.90263889,-88.03941667,Lyon,Bill Ryan,USFS,23,100,Grass - Moderate,8,Hand,,,12,Low,5,,Public
+3/23/2018,Fishing Creek,36.922,-84.29765,Whitley,Leif Meadows,USFS,1153,100,Litter - Moderate,12,Aerial,,,12,Low,5,,Public
+11/14/2013,None,36.94166667,-84.25833333,Laurel,Leif Meadows,USFS,326,80,Litter - Light,Unknown,Hand,,,9,Moderate,6,4/2/2014,Private
+2/10/2015,Hillman Ferry,36.95,-88.18,Lyon,Dennis Wilson,USFS,148,100,Litter - Moderate,10,Hand,,,5,Low,6,,Private
+3/13/2014,Tim Finn,36.959939,-84.98469,Russell,Chris Mason,KDFWR,3,100,Grass - Heavy,Unknown,Hand,,,5,Low,6,3/27/2015,Private
+3/5/2017,Auger,36.966278,-84.234121,Laurel,London Ranger District,USFS,1887,70,Litter - Moderate,6,Aerial,,,5,Low,6,,Private
+4/9/2014,Odaniel,36.968,-86.334,Warren,Jared Handley,KDFWR,57.8,75,Grass - Light,39,Hand,,,9,Moderate,6,4/9/2014,Private
+4/2/2014,Kindred south,36.96825,-85.705861,Metcalfe,Jared Hadley,KDFWR,41.6,95,Grass - Moderate,44,Hand,,,9,Moderate,1,4/9/2014,Private
+3/7/2016,Gulf Ridge,36.979368,-84.35728,Pulaski,CorDell Taylor/Bill Ryan,USFS,344,75,Litter - Moderate,10,Aerial,,,9,Moderate,4,4/16/2014,Private
+3/19/2014,Cash,36.98584,-88.82012,McCracken,Wes McFaddin,KDFWR,24,95,Grass - Moderate,Unknown,Hand,,,7,Low,10,3/6/2007,Public
+3/21/2018,Cash,36.98584,-88.82012,McCracken,Wes McFaddin,KDFWR,18,95,Grass - Heavy,Unknown,Hand,,,6,Low,5,3/11/2013,Public
+4/10/2019,Cash Property,36.98584,-88.82012,McCracken,Wes McFaddin,KDFWR,10,100,Grass - Moderate,Unknown,Hand,,,6,Low,27,3/11/2013,Public
+3/23/2018,Bear Wallow,36.986,-84.39184,Pulaski,Joel Basch,USFS,563,100,Litter - Moderate,12,Aerial,,,14,Low,2,,Public
+1/5/2014,Shepherd Farm,37.011805,-87.507583,Christian,Keith Shepherd,Private Landowner,12,100,Grass - Moderate,Unknown,Hand,,,7,Low,5,,Public
+4/9/2014,Haydon,37.015,-86.616,Warren,Jared Handley,KDFWR,42.2,100,Grass - Heavy,40,Hand,,,9,Low,12,3/22/2007,Public
+4/9/2014,Haydon,37.015,-86.615,Warren,Bill Lynch,KDFWR,42.2,100,Grass - Heavy,10,Hand,,,8,Low,8,3/7/2006,Public
+4/7/2014,Vern Uchtman,37.01639,-85.43778,Green,Chris Mason,KDFWR,28.3,80,Grass - Heavy,Unknown,Hand,,,8,Low,1,,Private
+3/18/2019,Harold Turner,37.023073,-84.1093307,Laurel,Merle Hacker/Randall Alcorn,KDFWR,9.5,85,Grass - Moderate,0,Hand,,,6,Moderate,1,,Private
+3/9/2016,Jim Spoles,37.02794,-85.23695,Adair,Chris Mason,KDFWR,29.6,95,Grass - Heavy,Unknown,Hand,,,8,Moderate,1,,Private
+4/2/2014,Jim Sproles,37.0283,-85.2371,Adair,Chris Mason,KDFWR,28.3,100,Grass - Moderate,Unknown,Hand,,,8,Moderate,1,,Private
+3/27/2015,Jim Sproles,37.02830556,-85.23708333,Adair,Chris Mason,KDFWR,2.6,75,Grass - Heavy,Unknown,Hand,,,8,Moderate,1,,Private
+3/27/2015,Jim Sproles,37.02830556,-85.23708333,Adair,Chris Mason,KDFWR,3.4,75,Grass - Heavy,Unknown,Hand,,,8,Low,1,,Private
+3/27/2015,Jim Sproles,37.02830556,-85.23708333,Adair,Chris Mason,KDFWR,2.5,75,Grass - Heavy,Unknown,Hand,,,7,Moderate,12,3/17/2010,Private
+3/27/2015,Jim Sproles,37.02830556,-85.23708333,Adair,Chris Mason,KDFWR,2.5,75,Grass - Heavy,Unknown,Hand,,,8,Moderate,11,3/10/2009,Private
+3/27/2015,Jim Sproles,37.02830556,-85.23708333,Adair,Chris Mason,KDFWR,9.9,75,Grass - Heavy,Unknown,Hand,,,6,Low,11,3/16/2011,Private
+3/8/2018,Jim Sproles,37.0283056,-85.2370833,Adair,Chris Mason,KDFWR,33.6,95,Grass - Moderate,Unknown,Hand,,,6,Low,11,3/16/2011,Private
+3/9/2017,Jim Sproles Homeplace,37.03266,-85.23362,Adair,Chris Mason,KDFWR,23,90,Grass - Moderate,Unknown,Hand,,,8,Moderate,3,10/16/2012,Private
+3/29/2017,Jim Sproles - Three Fingers Farm,37.04285,-85.34297,Adair,Chris Mason,KDFWR,7.5,90,Grass - Moderate,Unknown,Hand,,,7,Low,6,4/24/2014,Private
+4/9/2019,Everett Burn,37.044278,-88.808222,McCracken,Wes McFaddin,KDFWR,5,100,Grass - Heavy,Unknown,Hand,,,7,Low,1,,Private
+3/13/2014,Rich Jefferies,37.05364,-84.96561,Russell,Chris Mason,KDFWR,7,95,Grass - Heavy,Unknown,Hand,,,7,Low,10,,Private
+3/13/2014,Rich Jefferies,37.05364,-84.96561,Russell,Chris Mason,KDFWR,7,95,Grass - Heavy,Unknown,Hand,,,7,Low,10,,Private
+11/25/2015,Cold Hill Research Plots,37.055688,-84.22939,Laurel,London Ranger District,USFS,303,90,Litter - Moderate,9,Hand,,,7,Low,10,,Private
+3/20/2014,Terry Partin,37.05994,-85.37447,Adair,Chris Mason,KDFWR,195.3,100,Grass - Heavy,Unknown,Hand,,,7,Low,10,,Private
+3/30/2015,Terry Partin,37.05994,-85.37449,Adair,Chris Mason,KDFWR,233,95,Grass - Heavy,Unknown,Hand,,,12,Low,1,,Private
+3/29/2017,Terry Partin,37.05994,-85.37447,Adair,Chris Mason,KDFWR,104.9,90,Grass - Heavy,Unknown,Hand,,,6,Low,10,,Private
+3/30/2017,Terry Partin,37.05994,-85.37447,Adair,Chris Mason,KDFWR,127.7,90,Grass - Heavy,Unknown,Hand,,,6,Low,10,,Private
+4/5/2018,Terry Partin,37.05994,-85.37447,Adair,Chris Mason,KDFWR,232,70,Grass - Moderate,Unknown,Hand,,,6,Low,10,,Private
+3/17/2016,Terry Partin,37.06109,-85.37911,Adair,Chris Mason,KDFWR,235,90,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Private
+3/8/2016,Middle Fork,37.064797,-84.229097,Pulaski,Chris Owens/ Bill Ryan,USFS,1664,75,Litter - Moderate,8,Aerial,,,6,Low,10,,Private
+4/15/2014,Strube Farm,37.0751,-87.2361,Muhlenberg,Thomas Young,KDFWR,16,90,Grass - Moderate,Unknown,Hand,,,5,Low,1,,Private
+5/24/2014,Strube Farm,37.0751,-87.2361,Muhlenberg,Tim Strube,Private Landowner,25,100,Grass - Moderate,Unknown,Hand,,,2,Low,6,3/14/2013,Private
+3/18/2019,Randall Bentley,37.08054361,-83.99029167,Laurel,Merle Hacker/Randall Alcorn,KDFWR,10.5,80,Grass - Moderate,0,Hand,,,3,Low,9,,Private
+4/16/2014,Newberry,37.096,-85.772,Barren,Jared Handley,KDFWR,100,95,Grass - Moderate,36,Hand,,,1,Low,1,3/16/2013,Private
+3/15/2016,Ken Wilkerson,37.09933,-85.2184,Adair,Chris Mason,KDFWR,2.2,75,Grass - Moderate,Unknown,Hand,,,1,Low,1,2/16/2013,Private
+3/7/2019,"Rockcastle River WMA, Unit Seven",37.1007,-84.3329,Pulaski,Mike Strunk,KDFWR,10.3,95,Grass - Moderate,Unknown,Hand,,,5,Low,8,3/13/2013,Private
+3/7/2019,"Rockcastle River WMA, Unit Six",37.1015,-84.3353,Pulaski,Mike Strunk,KDFWR,3,95,Grass - Moderate,Unknown,Hand,,,5,Low,8,3/21/2014,Private
+3/7/2019,"Rockcastle River WMA, Unit Three",37.1163,-84.3397,Pulaski,Mike Strunk,KDFWR,15,75,Grass - Moderate,Unknown,Hand,,,5,Low,8,3/13/2013,Private
+3/7/2019,"Rockcastle River WMA, Unit Two",37.1163,-84.3462,Pulaski,Mike Strunk,KDFWR,23.6,75,Grass - Heavy,Unknown,Hand,,,6,Low,5,,Private
+3/7/2019,"Rockcastle River WMA, Unit One",37.1169,-84.351,Pulaski,Mike Strunk,KDFWR,40,70,Grass - Moderate,Unknown,Hand,,,5,Low,8,4/3/2013,Private
+4/10/2019,"Rockcastle River WMA, Barn Woodland",37.117,-84.333,Pulaski,"Brian Gray, Apprentice Chris Scott",KDFWR,60,100,Litter - Moderate,Unknown,Hand,,,5,,8,4/2/2014,Private
+4/10/2019,"Rockcastle River WMA, Iron Gate Woodland",37.119,-84.351,Pulaski,"Brian Gray, Apprentice Chris Scott",KDFWR,10.5,95,Litter - Moderate,Unknown,Hand,,,5,Low,6,3/15/2014,Private
+3/16/2017,riddle,37.1257,-87.1801,Muhlenberg,thomas young,KDFWR,60,100,Grass - Moderate,Unknown,Hand,,,5,Low,6,4/13/2012,Private
+3/11/2014,Billy Beard,37.1415,-85.59744,Green,Chris Mason,KDFWR,61.6,95,Grass - Moderate,Unknown,Hand,,,6,Low,7,5/3/2013,Private
+3/2/2017,"GRWMA, Tailwaters",37.1439,-85.3444,Taylor,Brian Gray,KDFWR,4.5,95,Grass - Moderate,Unknown,Hand,,,6,Low,8,3/19/2014,Private
+9/24/2015,Vern Uchtman,37.14972,-85.43778,Green,Chris Mason,KDFWR,10,85,Grass - Heavy,Unknown,Hand,,,6,Low,7,,Private
+9/24/2015,Vern Uchtman Unit 1,37.14972,-85.43778,Green,Chris Mason,KDFWR,6.7,85,Grass - Heavy,Unknown,Hand,,,6,Low,7,,Private
+9/24/2015,Vern Uchtman Unit 2,37.14972,-85.43778,Green,Chris Mason,KDFWR,1.4,85,Grass - Heavy,Unknown,Hand,,,6,Low,8,3/21/2012,Private
+9/24/2015,Vern Uchtman Unit 3,37.14972,-85.43778,Green,Chris Mason,KDFWR,2.3,85,Grass - Heavy,Unknown,Hand,,,6,Low,7,4/2/2013,Private
+9/24/2015,Vern Uchtman Unit 4,37.14972,-85.43778,Green,Chris Mason,KDFWR,2.8,85,Grass - Heavy,Unknown,Hand,,,5,Low,6,3/26/2012,Private
+9/24/2015,Vern Uchtman Unit 5,37.14972,-85.43778,Green,Chris Mason,KDFWR,3.3,85,Grass - Heavy,Unknown,Hand,,,6,Low,7,,Private
+9/24/2015,Vern Uchtman Unit 7,37.14972,-85.43778,Green,Chris Mason,KDFWR,1.8,85,Grass - Heavy,Unknown,Hand,,,3,Low,1,,Private
+3/17/2015,William Baker,37.160472,-85.39472,Adair,Chris Mason,KDFWR,33,85,Grass - Moderate,Unknown,Hand,,,6,Low,1,,Private
+3/28/2016,Christiane Monin,37.16049,-85.645,Green,Chris Mason,KDFWR,15.4,95,Grass - Heavy,Unknown,Hand,,,5,Low,6,3/15/2011,Public
+3/11/2014,Christiane Monin,37.16289,-85.63853,Green,Chris Mason,KDFWR,46.6,100,Grass - Heavy,Unknown,Hand,,,5,Low,6,3/12/2011,Public
+3/18/2016,Greg Mooney,37.16296,-85.3597,Adair,Chris Mason,KDFWR,77,75,Grass - Moderate,Unknown,Hand,,,5,Low,6,3/25/2010,Public
+3/13/2014,R. F. Tarter WMA,37.164,-85.072,Adair,Brian Gray,KDFWR,25,95,Grass - Moderate,Unknown,Hand,,,15,Moderate,3,4/15/2013,Public
+3/29/2016,R.F.Tarter WMA,37.16439,-85.07119,Adair,Brian Gray,KDFWR,12.8,95,Grass - Moderate,Unknown,Hand,,,8,Moderate,3,4/15/2013,Public
+3/23/2018,R. F. Tarter WMA,37.16439,-85.07119,Adair,Brian Gray,KDFWR,16.1,95,Grass - Moderate,Unknown,Hand,,,6,Moderate,3,4/15/2013,Public
+4/12/2014,Greg Mooney,37.16472,-85.36416,Adair,Greg Mooney,Private Landowner,77,95,Grass - Moderate,Unknown,Hand,,,6,Low,3,3/21/2012,Public
+3/18/2015,Greg Mooney,37.16472,-85.36417,Adair,Chris Mason,KDFWR,77,90,Grass - Moderate,Unknown,Hand,,,6,Low,3,8/16/2011,Public
+3/25/2015,Robert Wiggins,37.169298,-88.234036,Livingston,Philip Sharp,KDFWR,9.4,75,Grass - Heavy,Unknown,Hand,,,8,Low,10,,Public
+3/25/2015,Hazel Maupin,37.171551,-88.209177,Livingston,Philip Sharp,KDFWR,104.4,75,Grass - Heavy,Unknown,Hand,,,3,Low,1,,Private
+3/8/2016,GRWMA-Snake Creek,37.17446,-85.23159,Adair,Brian Gray,KDFWR,37.3,90,Grass - Moderate,Unknown,Hand,,,3,Low,1,,Private
+3/8/2017,"GRWMA, Snake Creek`",37.17446,-85.23159,Adair,Brian Gray,KDFWR,9.9,95,Grass - Moderate,Unknown,Hand,,,2,Low,1,,Private
+4/2/2014,Bettye Wilcoxson,37.17519,-85.532,Green,Chris Mason,KDFWR,37.3,100,Grass - Heavy,Unknown,Hand,,,2,Low,1,,Private
+3/15/2013,Bill Matney,37.17519444,-85.53263889,Green,Chris Mason,KDFWR,46.8,95,Grass - Moderate,Unknown,Hand,,,1,Low,1,,Private
+4/4/2017,Gayle Smith,37.1811,-88.2488,Livingston,Philip Sharp,KDFWR,37.1,70,Grass - Heavy,Unknown,Hand,,,1,Low,1,,Private
+3/31/2014,Davis Bend,37.18288,-85.43186,Hart,Jeff Sole,TNC,60,85,Grass - Light,8,Hand,,,3,Low,1,,Private
+3/31/2014,Davis Bend,37.18288,-85.43186,Hart,Jeff Sole,TNC,60,85,Grass - Light,8,Hand,,,2,Low,1,3/7/2012,Private
+4/4/2019,"Ping-Sinking Valley WMA, Unit Two",37.1862,-84.3974,Pulaski,"Mike Strunk, Apprentice Chris Scott",KDFWR,9,90,Grass - Heavy,Unknown,Hand,,,10,Low,1,3/8/2012,Private
+3/28/2019,Ben Smith,37.18636,-86.36589,Breckinridge,Jared B. Handley,KDFWR,45,100,Grass - Moderate,Unknown,Hand,,,1,Low,1,3/7/2011,Private
+3/28/2019,Michael Campbell,37.18636,-86.48422,Butler,Jared B. Handley,KDFWR,30,100,Grass - Moderate,Unknown,Hand,,,2,Low,1,,Private
+4/2/2019,"GRWMA, Rosa Knifley",37.188,-85.199,Adair,Brian Gray,KDFWR,10.7,80,Grass - Moderate,Unknown,Hand,,,6,Low,1,,Private
+3/9/2017,"GRWAM, Little Cake",37.1885,-85.199,Adair,Brian Gray,KDFWR,11.3,80,Grass - Light,Unknown,Hand,,,3,Low,1,,Private
+3/7/2016,GRWMA-Rosa Knifley,37.18852,-85.19895,Adair,Brian Gray,KDFWR,11.2,90,Grass - Moderate,Unknown,Hand,,,9,Low,10,,Public
+4/2/2019,"GRWMA, Little Cake",37.189,-85.199,Adair,Brian Gray,KDFWR,10,95,Grass - Moderate,Unknown,Hand,,,Crew,Low,2,2/15/2013,Private
+3/20/2017,Jeff Shuffett,37.19069,-85.4048,Green,Chris Mason,KDFWR,89,85,Grass - Moderate,Unknown,Hand,,,8,Moderate,12,3/1/2013,Private
+3/9/2018,Jeff Shuffett,37.19103,-85.40472,Green,Chris Mason,KDFWR,34,95,Grass - Moderate,Unknown,Hand,,,7,Moderate,17,3/15/2012,Public
+4/1/2014,Jeff Biggs,37.19278,-85.35397,Adair,Chris Mason,KDFWR,240,100,Grass - Moderate,Unknown,Hand,,,7,Moderate,17,3/15/2012,Public
+3/6/2018,Jeff Biggs,37.19278,-85.35397,Adair,Chris Mason,KDFWR,145.5,95,Grass - Moderate,Unknown,Hand,,,7,Moderate,17,3/22/2012,Public
+3/9/2018,Jeff Biggs,37.19278,-85.35397,Adair,Chris Mason,KDFWR,94.5,90,Grass - Moderate,Unknown,Hand,,,7,Low,1,3/3/2011,Public
+3/28/2019,"GRWMA, Goose Shoals",37.194,-85.142,Adair,Brian Gray,KDFWR,14.1,90,Grass - Moderate,Unknown,Hand,,,6,Low,35,,Public
+3/28/2019,"GRWMA, Upper Green",37.194,-85.142,Adair,Brian Gray,KDFWR,5.7,80,Grass - Moderate,Unknown,Hand,,,6,,35,,Public
+3/15/2017,"GRWMA, Goose Shoals",37.1944,-85.1422,Adair,Brian Gray,KDFWR,17.3,85,Grass - Light,Unknown,Hand,,,7,,1,3/1/2012,Public
+3/15/2017,"GRWMA, Upper Green",37.1944,-85.1422,Adair,Brian Gray,KDFWR,28.3,85,Grass - Moderate,Unknown,Hand,,,8,Low,1,3/1/2012,Public
+3/23/2017,"GRWMA, Goose Shoals",37.1944,-85.1421,Adair,Brian Gray,KDFWR,7.3,60,Litter - Light,Unknown,Hand,,,8,Low,1,,Public
+3/7/2016,GRWMA-Upper Green River,37.19443,-85.14215,Adair,Brian Gray,KDFWR,22.5,75,Grass - Light,Unknown,Hand,,,10,Low,10,,Public
+3/16/2018,"Green River WMA, Adair County",37.19443,-85.14215,Adair,Brian Gray,KDFWR,247.5,95,Grass - Moderate,Unknown,Hand,,,10,Low,1,3/1/2012,Public
+2/20/2017,Harry Kessler,37.1946,-85.49448,Green,Chris Mason,KDFWR,70.8,95,Grass - Moderate,Unknown,Hand,,,10,Low,10,,
+3/11/2014,Harry Kessler,37.19536,-85.49494,Green,Chris Mason,KDFWR,49.6,95,Grass - Moderate,Unknown,Hand,,,14,Moderate,26,,Public
+3/17/2015,Harry Kessler,37.19536,-85.49494,Green,Chris Mason,KDFWR,17.4,95,Grass - Heavy,Unknown,Hand,,,10,Low,10,,Public
+3/5/2018,Harry Kessler,37.195361,-85.494944,Green,Chris Mason,KDFWR,50.9,70,Grass - Moderate,Unknown,Hand,,,10,Low,6,,Public
+3/28/2016,Harry Kessler,37.19657,-85.50179,Green,Chris Mason,KDFWR,12.8,65,Grass - Moderate,Unknown,Hand,,,11,Low,22,,Public
+3/7/2016,GRWMA-Goose Shoals,37.19862,-85.11704,Adair,Brian Gray,KDFWR,28.5,90,Grass - Moderate,Unknown,Hand,,,12,Low,12,,Public
+4/20/2014,Rogers Farm,37.20183,-87.39694,Hopkins,Jeff Rogers,Private Landowner,3,100,Grass - Heavy,Unknown,Hand,,,10,Low,1,,Public
+3/11/2019,Daris Arnold,37.204,-85.221,Adair,Brian Gray,KDFWR,22,95,Grass - Light,Unknown,Hand,,,6,Low,6,,Public
+3/28/2016,Ivus Crouch Dyer Hill Mine Road,37.21,-88.403,Livingston,Philip Sharp,KDFWR,30.2,90,Grass - Heavy,Unknown,Hand,,,7,Low,1,,Private
+4/2/2019,"GRWMA, Plum Point",37.21,-85.243,Adair,Brian Gray,KDFWR,10.1,90,Grass - Moderate,Unknown,Hand,,,5,Low,10,3/22/2013,Private
+3/2/2017,"GRWMA, Plum Point",37.2103,-85.2426,Adair,Brian Gray,KDFWR,10.1,85,Grass - Moderate,Unknown,Hand,,,8,Low,10,,Private
+3/7/2016,GRWMA-Plum Point,37.21037,-85.24263,Adair,Brian Gray,KDFWR,5.3,100,Grass - Moderate,Unknown,Hand,,,8,Low,10,,Private
+3/22/2017,Bertha Crouch,37.2109,-88.4046,Livingston,Philip Sharp,KDFWR,65.5,90,Grass - Heavy,Unknown,Hand,,,8,Low,10,,Private
+3/23/2015,Dathel Ramage,37.211317,-88.406284,Livingston,Philip Sharp,KDFWR,40.3,70,Grass - Heavy,Unknown,Hand,,,8,Low,10,,Private
+3/28/2019,RH Group,37.212491,-82.756745,Letcher,Merle Hacker,KDFWR,100,85,Grass - Moderate,0,Hand,,,8,Low,10,,Private
+3/18/2016,Rita Ramage,37.214,-88.409,Livingston,Philip Sharp,KDFWR,37.7,90,Grass - Heavy,Unknown,Hand,,,8,Low,10,,Private
+3/2/2017,"GRWMA, Holmes Bend",37.21421,-85.26597,Adair,Brian Gray,KDFWR,1,90,Grass - Moderate,Unknown,Hand,,,8,Low,10,,Private
+4/9/2019,Ivus Crouch Dyer Hill Mine Road,37.214722,-88.400944,Livingston,Philip Sharp,KDFWR,37.8,95,Grass - Heavy,Unknown,Hand,,,8,Low,10,,Private
+4/17/2014,Riddle Farm,37.21494,-87.30083,Muhlenberg,Chess Riddle,Private Landowner,20,100,Grass - Moderate,Unknown,Hand,,,8,Low,10,,Private
+4/17/2018,Ivus Crouch Dyer Hill Mine Road,37.215,-88.401,Livingston,Philip Sharp,KDFWR,30.2,95,Grass - Heavy,Unknown,Hand,,,8,Low,14,,Private
+3/31/2015,Russian Girl House,37.215175,-88.43856,Livingston,Philip Sharp,KDFWR,25.5,75,Grass - Heavy,Unknown,Hand,,,8,Low,1,,Private
+4/17/2014,SU14,37.215322,-87.018922,Muhlenberg,Eric Williams,KDFWR,14,85,Grass - Moderate,Unknown,Hand,,,8,Low,10,,Private
+4/1/2014,SU52,37.217,-87.01,Muhlenberg,Eric Williams,KDFWR,49,90,Grass - Moderate,Unknown,Hand,,,8,Low,10,,Private
+5/3/2014,Graham Farm,37.217194,-87.25816,Muhlenberg,Theresa Graham,Private Landowner,6,100,Grass - Light,Unknown,Hand,,,8,Low,10,,Private
+3/28/2016,Terry Teitloff,37.221,-88.391,Livingston,Philip Sharp,KDFWR,36.7,95,Grass - Heavy,Unknown,Hand,,,8,Low,10,,Public
+3/24/2014,T Teitloff,37.2219,-88.3891,Livingston,Philip Sharp,KDFWR,54.4,100,Grass - Heavy,Unknown,Hand,,,8,Low,10,,Private
+3/28/2017,Terry Titloff,37.2219,-88.3891,Livingston,Philip Sharp,KDFWR,13.8,95,Grass - Heavy,Unknown,Hand,,,8,Low,10,,Private
+3/22/2019,Terry Teitloff,37.221917,-88.389139,Livingston,Philip Sharp,KDFWR,14.2,100,Grass - Heavy,Unknown,Hand,,,6,Low,6,,Public
+3/22/2018,Terry Teitloff,37.222,-88.389,Livingston,Philip Sharp,KDFWR,36.7,95,Grass - Heavy,Unknown,Hand,,,5,Low,6,4/2/2014,Private
+3/13/2019,"GRWMA, Corbins Bend",37.223,-85.295,Adair,Brian Gray,KDFWR,18.8,95,Grass - Heavy,Unknown,Hand,,,5,Low,6,4/2/2014,Private
+3/23/2015,Rankin Powell,37.223324,-88.401318,Livingston,Philip Sharp,KDFWR,27.8,90,Grass - Heavy,Unknown,Hand,,,5,Moderate,14,3/31/2015,Public
+3/9/2016,GRWMA-Corbins Bend,37.22339,-85.29542,Adair,Brian Gray,KDFWR,40.9,95,Grass - Moderate,Unknown,Hand,,,7,Moderate,14,3/30/2015,Public
+3/2/2017,"GRWMA, Corbins Bend",37.2234,-85.2954,Adair,Brian Gray,KDFWR,66.7,95,Grass - Heavy,Unknown,Hand,,,5,Moderate,14,4/1/2015,Private
+4/10/2015,Phelp's Creek Lodge,37.223698,-88.429864,Livingston,Philip Sharp,KDFWR,19.9,75,Shrub - Light,Unknown,Hand,,,8,Moderate,14,4/1/2015,Public
+4/1/2014,SU35,37.224,-87.014,Muhlenberg,Eric Williams,KDFWR,32,90,Grass - Moderate,Unknown,Hand,,,7,Low,1,,Public
+4/17/2018,Ricky Peck,37.224,-88.376,Livingston,Philip Sharp,KDFWR,25.4,85,Shrub - Moderate,Unknown,Hand,,,7,Low,1,,Public
+4/1/2014,R Peck,37.2243,-88.3749,Livingston,Philip Sharp,KDFWR,24.7,95,Grass - Moderate,Unknown,Hand,,,7,Low,1,,Public
+3/10/2017,"GRWMA, Casey Creek Lower",37.2247,-85.1871,Adair,Brian Gray,KDFWR,25.8,85,Grass - Moderate,Unknown,Hand,,,6,Low,1,,Public
+3/18/2016,James Ramage,37.225,-88.325,Livingston,Philip Sharp,KDFWR,25.9,95,Shrub - Light,Unknown,Hand,,,8,Low,1,,Public
+3/28/2016,Rankin Powell,37.225,-88.404,Livingston,Philip Sharp,KDFWR,49,85,Grass - Heavy,Unknown,Hand,,,5,Low,6,4/7/2014,Private
+3/11/2019,"GRWMA, Casey Creek Lower",37.225,-85.187,Adair,Brian Gray,KDFWR,15.2,85,Grass - Moderate,Unknown,Hand,,,5,Low,6,4/7/2014,Private
+4/1/2014,R Powell,37.2256,-88.3978,Livingston,Philip Sharp,KDFWR,49.3,90,Grass - Heavy,Unknown,Hand,,,5,Low,6,4/7/2014,Private
+3/28/2017,Rankin Powell,37.2256,-88.3977,Livingston,Philip Sharp,KDFWR,26.5,90,Grass - Heavy,Unknown,Hand,,,5,Low,6,4/7/2014,Private
+3/22/2019,Rankin Powell,37.225611,-88.397778,Livingston,Philip Sharp,KDFWR,23.9,100,Grass - Heavy,Unknown,Hand,,,5,Low,6,4/7/2014,Private
+3/22/2018,Rankin Powell,37.226,-88.398,Livingston,Philip Sharp,KDFWR,45.1,90,Grass - Moderate,Unknown,Hand,,,5,Low,6,4/7/2014,Private
+3/22/2019,Ivus Crouch Bradley Farm,37.226942,-88.408881,Livingston,Philip Sharp,KDFWR,34.5,95,Grass - Moderate,Unknown,Hand,,,5,Low,6,4/7/2014,Private
+3/22/2018,Ivus Crouch Bradley Farm,37.227,-88.409,Livingston,Philip Sharp,KDFWR,45,100,Grass - Moderate,Unknown,Hand,,,5,Low,6,3/20/2012,Private
+4/9/2019,Donnie Lanier,37.227583,-88.43675,Livingston,Philip Sharp,KDFWR,27.9,90,Grass - Heavy,Unknown,Hand,,,6,Low,8,3/19/2012,Private
+3/22/2017,Donnie Lanier,37.2276,-88.4368,Livingston,Philip Sharp,KDFWR,28.8,95,Grass - Heavy,Unknown,Hand,,,5,Low,6,4/10/2013,Private
+4/1/2014,SU25,37.228,-87.02,Muhlenberg,Eric Williams,KDFWR,8,90,Grass - Moderate,Unknown,Hand,,,5,Low,6,4/2/2014,Private
+4/10/2015,Donnie Lanier,37.22821,-88.437405,Livingston,Philip Sharp,KDFWR,28.8,75,Grass - Heavy,Unknown,Hand,,,5,Low,6,4/2/2014,Private
+3/24/2014,I Crouch,37.2285,-88.3879,Livingston,Philip Sharp,KDFWR,88.6,100,Grass - Heavy,Unknown,Hand,,,5,Low,6,4/2/2014,Private
+4/12/2017,Ivus Crouch Palmer Rd,37.22852,-88.38786,Livingston,Philip Sharp,KDFWR,345.7,90,Grass - Moderate,Unknown,Hand,,,8,Low,6,3/20/2014,Private
+2/20/2013,None,37.22852778,-88.38786111,Livingston,Philip Sharp,KDFWR,197,100,Grass - Heavy,Unknown,Hand,,,6,Low,6,4/6/2011,Private
+4/9/2014,I Crouch2,37.2286,-88.388,Livingston,Philip Sharp,KDFWR,106.5,90,Grass - Heavy,Unknown,Hand,,,5,Low,6,,Private
+4/16/2014,I Crouch3,37.2287,-88.3881,Livingston,Philip Sharp,KDFWR,8.5,95,Grass - Heavy,Unknown,Hand,,,5,Low,6,3/11/2014,Private
+3/26/2014,SU46,37.229,-87.011,Muhlenberg,Eric Williams,KDFWR,11,95,Grass - Heavy,Unknown,Hand,,,5,Low,6,3/26/2014,Private
+3/26/2014,SU47,37.229,-87.008,Muhlenberg,Eric Williams,KDFWR,25,95,Grass - Heavy,Unknown,Hand,,,5,Low,6,4/2/2014,Private
+3/22/2017,William Spann,37.2291,-88.4282,Livingston,Philip Sharp,KDFWR,73.9,70,Shrub - Moderate,Unknown,Hand,,,5,Low,2,,Private
+4/5/2018,Ivus Crouch Palmer Road,37.231,-88.391,Livingston,Philip Sharp,KDFWR,181.6,90,Grass - Heavy,Unknown,Hand,,,9,Low,1,2/6/2013,Public
+3/22/2018,Ivus Crouch Palmer Road,37.2311,-88.3911,Livingston,Philip Sharp,KDFWR,138.4,90,Grass - Heavy,Unknown,Hand,,,9,Low,26,1/4/2012,Public
+4/5/2016,Ivus Crouch Palmer Road,37.234,-88.396,Livingston,Philip Sharp,KDFWR,202.7,95,Grass - Heavy,Unknown,Hand,,,9,Low,10,10/21/2013,Public
+3/28/2016,Ronald James,37.235,-88.411,Livingston,Philip Sharp,KDFWR,51.5,85,Slash - Heavy,50,Hand,,,30,Moderate,26,3/14/2007,Public
+3/9/2017,Bill Ramage,37.23577,-88.35275,Livingston,Philip Sharp,KDFWR,68.3,95,Grass - Light,Unknown,Hand,,,15,Low,26,11/11/2009,Public
+3/15/2014,Green River WMA,37.236,-85.299,Adair,Brian Gray,KDFWR,335,95,Grass - Moderate,Unknown,Hand,,,14,Low,26,11/11/2009,Public
+3/18/2015,Red Warren,37.236423,-88.379429,Livingston,Philip Sharp,KDFWR,29.7,75,Grass - Heavy,Unknown,Hand,,,15,Low,26,1/6/2012,Public
+4/12/2017,Ronald James,37.2366,-88.4071,Livingston,Philip Sharp,KDFWR,15,70,Slash - Light,Unknown,Hand,,,15,Low,26,12/18/2013,Public
+4/3/2019,Ronald James Palmer Road,37.236778,-88.406528,Livingston,Philip Sharp,KDFWR,38.4,90,Litter - Heavy,Unknown,Hand,,,6,Low,3,,Public
+4/1/2014,SU15,37.237,-87.028,Muhlenberg,Eric Williams,KDFWR,11,90,Grass - Moderate,Unknown,Hand,,,6,Low,2,,Public
+4/11/2015,Pine Thicket,37.237151,-88.409717,Livingston,Philip Sharp,KDFWR,15,75,Litter - Heavy,Unknown,Hand,,,30,Moderate,31,4/2/2008,Public
+3/9/2017,WKU Small Field,37.2372,-85.994,Hart,Chris Minor,TNC,7,100,Grass - Moderate,7,Hand,,,20,Moderate,31,3/3/2011,Public
+4/16/2014,R Warren,37.238,-88.3809,Livingston,Philip Sharp,KDFWR,36.6,90,Grass - Moderate,Unknown,Hand,,,20,Moderate,31,3/18/2015,Public
+4/4/2016,William Spann,37.238,-88.435,Livingston,Philip Sharp,KDFWR,168.1,90,Grass - Moderate,Unknown,Hand,,,16,Moderate,31,3/24/2015,Public
+4/12/2017,Red Warren,37.23802,-88.38094,Livingston,Philip Sharp,KDFWR,36.6,80,Shrub - Moderate,Unknown,Hand,,,4,Low,6,3/10/2014,Public
+3/23/2019,Red Warren,37.238028,-88.380944,Livingston,Philip Sharp,KDFWR,28.1,90,Grass - Heavy,Unknown,Hand,,,8,Low,6,2/29/2016,Public
+4/11/2015,Big Buck Lodge,37.238323,-88.429335,Livingston,Philip Sharp,KDFWR,115,70,Shrub - Light,Unknown,Hand,,,8,Low,8,4/9/2014,Public
+3/15/2014,Chris Mason,37.2386,-85.67113,Green,Chris Mason,Private Landowner,7,100,Grass - Moderate,Unknown,Hand,,,9,Low,8,,Public
+2/17/2017,"GRWMA, Smith Ridge",37.23876,-85.33848,Taylor,Brian Gray,KDFWR,3.4,100,Grass - Moderate,Unknown,Hand,,,8,Low,8,,Public
+3/18/2015,Spooky Girl House,37.23918,-88.402358,Livingston,Philip Sharp,KDFWR,345.7,95,Grass - Heavy,Unknown,Hand,,,9,Low,6,,Public
+3/16/2017,Randy Addison,37.23925,-85.66192,Green,Chris Mason,KDFWR,25,95,Grass - Moderate,Unknown,Hand,,,9,Low,6,,Public
+3/22/2018,Randy Addison,37.240139,-85.661667,Green,Chris Mason,KDFWR,25,70,Grass - Moderate,Unknown,Hand,,,7,Low,16,,Public
+4/1/2014,SU14,37.241,-87.02,Muhlenberg,Eric Williams,KDFWR,8,90,Grass - Moderate,Unknown,Hand,,,7,Low,4,,Public
+3/18/2015,James Woodyard,37.242744,-88.388493,Livingston,Philip Sharp,KDFWR,23.1,30,Shrub - Moderate,Unknown,Hand,,,8,Low,1,3/10/2014,Public
+4/1/2014,J Woodyard,37.244,-88.3933,Livingston,Philip Sharp,KDFWR,46.1,100,Grass - Heavy,Unknown,Hand,,,9,Moderate,35,10/20/2015,Public
+3/16/2016,James Woodyard,37.244,-88.391,Livingston,Philip Sharp,KDFWR,93.8,95,Grass - Heavy,Unknown,Hand,,,9,Low,1,2/11/2015,Public
+4/12/2017,James Woodyard,37.244,-88.39327,Livingston,Philip Sharp,KDFWR,59.4,85,Grass - Light,Unknown,Hand,,,6,Moderate,35,3/8/2016,Public
+4/11/2018,James Woodyard,37.244,-88.393,Livingston,Philip Sharp,KDFWR,49,95,Grass - Moderate,Unknown,Hand,,,9,Moderate,35,10/21/2015,Public
+3/7/2019,"GRWMA, Corps Demo Plots",37.244,-85.344,Taylor,Brian Gray,KDFWR,4.5,90,Grass - Light,Unknown,Hand,,,8,Moderate,14,3/8/2016,Public
+3/23/2019,Jim Woodyard,37.244,-88.39327,Livingston,Philip Sahrp,KDFWR,39.1,95,Grass - Heavy,Unknown,Hand,,,8,Low,3,,Private
+3/9/2017,WKU Bush,37.24429,-86.0085,Hart,Chris Minor,TNC,42,100,Grass - Moderate,7,Hand,,,8,Low,7,,Private
+3/28/2019,"GRWMA, Upper Casey Creek",37.246,-85.168,Adair,Brian Gray,KDFWR,46.8,90,Grass - Moderate,Unknown,Hand,,,2 cre,Low,3,3/1/2014,Private
+4/5/2016,GRWMA-Casey Creek Upper,37.24637,-85.1686,Adair,Brian Gray,KDFWR,25.1,90,Grass - Moderate,Unknown,Hand,,,8,Low,3,3/1/2014,Private
+2/16/2017,"GRWMA, Casey Creek Upper",37.2464,-85.1686,Adair,Brian Gray,KDFWR,54.3,95,Grass - Moderate,Unknown,Hand,,,8,Moderate,13,3/17/2016,Public
+3/5/2018,Bush Tract,37.24666,-86.011949,Hart,Josh Lillpop,KSNPC,26,70,Grass - Moderate,Unknown,Hand,,,8,Moderate,13,3/23/2016,Public
+2/26/2019,"GRWMA, Pikes Ridge",37.247,-85.32,Taylor,Brian Gray,KDFWR,32.3,90,Grass - Moderate,Unknown,Hand,,,8,Moderate,31,3/18/2016,Public
+4/16/2014,R Mitchell,37.2483,-88.3435,Livingston,Philip Sharp,KDFWR,21.4,85,Grass - Moderate,Unknown,Hand,,,5,Low,8,4/2/2014,Public
+3/26/2018,Tebbs Bend Nature and Recreation Area,37.2505,-85.363027,Taylor,Chris Mason,KDFWR,29.3,95,Grass - Heavy,Unknown,Hand,,,7,Low,12,,Private
+3/18/2016,Charles Howard,37.25058333,-86.88161111,Ohio,Jared Handley,KDFWR,20,95,Grass - Moderate,Unknown,Hand,,,5,Moderate,11,,Public
+3/15/2016,Tebbs Bend Nature and Recreation Area,37.251,-85.36354,Taylor,Chris Mason,KDFWR,26,95,Grass - Heavy,Unknown,Hand,,,10,Moderate,5,,Public
+2/28/2014,Tebbs Bend Nature and Recreation Area,37.25125,-85.36256,Taylor,Chris Mason,KDFWR,26,95,Grass - Heavy,Unknown,Hand,,,5,Low,3,,Public
+4/9/2014,Rush Island Fence Unit,37.254715,-85.909304,Hart,Zeb Weese,HLCF,14,50,Grass - Moderate,15,Hand,,,11,Moderate,11,,Public
+3/20/2019,"GRWMA, Pikes Ridge Woodland",37.256,-85.312,Taylor,Brian Gray,KDFWR,173,85,Litter - Moderate,Unknown,Hand,,,5,Low,11,,Public
+3/16/2016,GRWMA_Pikes Ridge,37.25636,-85.31193,Taylor,Brian Gray,KDFWR,45.3,95,Grass - Moderate,Unknown,Hand,,,8,Low,1,,Public
+4/16/2014,J Lindsey,37.2564,-88.3215,Livingston,Philip Sharp,KDFWR,26.1,95,Grass - Heavy,Unknown,Hand,,,8,Moderate,2,,Public
+2/17/2017,"GRWMA, Pikes Ridge",37.2564,-85.3119,Taylor,Brian Gray,KDFWR,32.5,95,Grass - Moderate,Unknown,Hand,,,8,Moderate,11,,Public
+3/8/2017,Dee Dee Lindsey,37.2564,-88.3215,Livingston,Philip Sharp,KDFWR,23.1,90,Grass - Heavy,Unknown,Hand,,,9,Moderate,14,,Public
+3/8/2017,Roger Wilson,37.2568,-85.42055,Green,Chris Mason,KDFWR,8,85,Grass - Moderate,Unknown,Hand,,,10,Low,12,,Public
+4/13/2017,Fraliex Mitchell Rd,37.25688,-88.34458,Livingston,Philip Sharp,KDFWR,59.3,95,Grass - Moderate,Unknown,Hand,,,8,Low,13,3/15/2014,Public
+4/3/2019,Peggy Fraliex Mitchell Road,37.25689,-88.34458,Livingston,Philip Sharp,KDFWR,22.5,95,Grass - Heavy,Unknown,Hand,,,8,Low,9,3/15/2013,Public
+4/13/2017,Doug Knox,37.25702,-88.34019,Livingston,Philip Sharp,KDFWR,8.1,85,Grass - Light,Unknown,Hand,,,8,Moderate,3,,Public
+3/23/2015,Dee Dee Lindsey,37.257575,-88.322054,Livingston,Philip Sharp,KDFWR,26,75,Grass - Heavy,Unknown,Hand,,,10,Low,5,,Public
+4/9/2014,Rush Island Upland Unit,37.257873,-85.910866,Hart,Zeb Weese,HLCF,34,70,Grass - Moderate,15,Hand,,,13,Low,31,,Public
+3/5/2018,Roger Wilson,37.25822,-85.419528,Green,Chris Mason,KDFWR,8,90,Grass - Moderate,Unknown,Hand,,,11,Moderate,1,,Public
+3/28/2016,Roger Wilson,37.25896,-85.41968,Green,Chris Mason,KDFWR,8,80,Grass - Moderate,Unknown,Hand,,,11,Low,1,,Public
+2/29/2016,Rush Island Knoll Unit,37.258983,-85.906404,Hart,Zeb Weese,HLCF,23,70,Grass - Moderate,22,Hand,,,11,Moderate,10,,Public
+3/27/2019,Dee Dee Lindsey,37.260094,-88.321365,Livingston,Madeleine Pratt/Philip Sharp,KDFWR,36.1,90,Grass - Heavy,Unknown,Hand,,,8,Moderate,31,4/4/2016,Public
+4/9/2014,Rush Island Spring Unit,37.260371,-85.912762,Hart,Zeb Weese,HLCF,10,100,Grass - Heavy,15,Hand,,,8,Moderate,31,4/3/2016,Public
+3/29/2016,Dee Dee Lindsey,37.261,-88.323,Livingston,Philip Sharp,KDFWR,37.4,85,Grass - Heavy,Unknown,Hand,,,7,Moderate,13,4/5/2016,Public
+4/9/2014,Rush Island CRP Unit,37.261748,-85.909757,Hart,Zeb Weese,HLCF,40,100,Grass - Heavy,15,Hand,,,8,Low,1,,Private
+2/29/2016,Rush Island CRP Unit,37.261748,-85.909757,Hart,Zeb Weese,HLCF,40,100,Grass - Heavy,22,Hand,,,6,Low,1,,Private
+3/3/2017,Herb Davis Sr.,37.26238,-84.98561,Casey,Chris Mason,KDFWR,90,95,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Private
+3/26/2014,Herb Davis Sr.,37.26306,-84.98556,Casey,Chris Mason,KDFWR,83.8,100,Grass - Heavy,Unknown,Hand,,,5,Low,1,,Public
+3/16/2017,Mike Hensley,37.26847,-85.75982,Hart,Chris Mason,KDFWR,4.8,95,Grass - Moderate,Unknown,Hand,,,6,Low,1,,Private
+3/21/2017,John McLean,37.26992,-85.39996,Taylor,Chris Mason,KDFWR,115,95,Grass - Moderate,Unknown,Hand,,,6,Low,10,,Private
+4/3/2019,Peggy Fraliex Vick Road,37.27292,-88.35789,Livingston,Philip Sharp,KDFWR,36.8,95,Grass - Heavy,Unknown,Hand,,,5,Low,1,,Public
+4/13/2017,Crouch Bluff Rd,37.2732,-88.4056,Livingston,Philip Sharp,KDFWR,36.8,85,Grass - Moderate,Unknown,Hand,,,6,Low,1,,Public
+3/29/2016,Peggy Fralix,37.275,-88.353,Livingston,Philip Sharp,KDFWR,117,85,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Private
+3/27/2019,Ivus Crouch,37.275319,-88.420843,Livingston,Madeleine Pratt/Philip Sharp,KDFWR,121.4,65,Shrub - Light,Unknown,Hand,,,6,Low,10,,Private
+3/15/2016,Green River State Park,37.27537,-85.34207,Taylor,Brian Gray,KDFWR,3,95,Grass - Moderate,Unknown,Hand,,,6,Low,1,,Public
+3/31/2014,Green River State Park,37.276,-85.34,Taylor,Brian Gray,KDFWR,4,90,Grass - Moderate,Unknown,Hand,,,6,Low,1,,Private
+3/31/2015,Ben Green,37.287951,-88.48164,Livingston,Philip Sharp,KDFWR,107.1,75,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Private
+4/7/2014,George Holmes,37.296028,-85.841806,Hart,Chris Mason,KDFWR,16.5,95,Grass - Moderate,Unknown,Hand,,,5,Low,1,,Public
+3/8/2017,Davis Bend 1,37.3,-85.7167,Hart,Chris Minor,TNC,10,100,Grass - Moderate,7,Hand,,,6,Low,1,,Private
+3/8/2017,Davis Bend 2,37.3001,-85.7168,Hart,Chris Minor,TNC,20,35,Grass - Moderate,7,Hand,,,6,Low,1,,Private
+2/24/2014,James Russell,37.30202,-85.37974,Taylor,Chris Mason,KDFWR,67.3,100,Grass - Heavy,Unknown,Hand,,,5,Low,1,,Public
+3/8/2016,Davis Bend 2013 and 1,37.3056,-85.7216,Hart,Jeff Sole,TNC,30,100,Grass - Moderate,8,Hand,,,6,Low,1,,Public
+4/9/2014,J Kell,37.3099,-88.4628,Livingston,Philip Sharp,KDFWR,80.4,80,Grass - Moderate,Unknown,Hand,,,6,Moderate,26,,Private
+4/21/2014,Second 2014 Burn,37.31,-85.721,Hart,Lee Andrews,Private Landowner,6.6,100,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Public
+4/7/2014,Larry Cox,37.31228,-85.72933,Hart,Chris Mason,KDFWR,24,75,Grass - Moderate,Unknown,Hand,,,7,Low,1,,Public
+3/31/2014,Jeff Sole,37.3128888,-85.73908,Hart,Jeff Sole,Private Landowner,23,95,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Public
+9/3/2015,Jeff Sole,37.31289,-85.73908,Hart,Chris Mason,KDFWR,13,80,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Public
+3/22/2018,Jeff Sole,37.31289,-85.73908,Hart,Chris Mason,KDFWR,42,85,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Public
+3/15/2014,First 2014 Burn,37.3134,-85.7186,Hart,Lee Andrews,Private Landowner,16,100,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Public
+3/16/2017,Jeff Sole,37.31429,-85.73774,Hart,Chris Mason,KDFWR,20.6,95,Grass - Moderate,Unknown,Hand,,,15,Low,1,,Public
+4/5/2016,Jeff Sole,37.3144,-85.73781,Hart,Chris Mason,KDFWR,24,75,Grass - Heavy,Unknown,Hand,,,5,Moderate,33,4/4/2016,Public
+3/16/2017,Jeff Sole,37.31456,-85.73787,Hart,Chris Mason,KDFWR,20.6,90,Grass - Moderate,Unknown,Hand,,,12,Moderate,1,,Public
+3/20/2019,Livingston County WMA Love Road,37.315,-88.426,Livingston,Matt Young,KDFWR,157,80,Shrub - Heavy,Unknown,Hand,,,9,Low,1,,Public
+11/15/2013,Todd Long Farm,37.31783,-87.68472,Hopkins,Todd Long,Private Landowner,55,100,Grass - Moderate,Unknown,Hand,,,9,Low,1,,Public
+3/26/2019,Ronnie James Peck Branch Road,37.324583,-88.407417,Livingston,Philip Sharp,KDFWR,61.7,95,Grass - Heavy,Unknown,Hand,,,14,Moderate,26,,Public
+3/14/2018,Livingston County WMA Newman's Bluff Peck Branch,37.325,-88.407,Livingston,Philip Sharp,KDFWR,115.9,75,Shrub - Moderate,Unknown,Hand,,,11,Moderate,26,,Public
+3/15/2018,Ronald James Peck Branch Road,37.325,-88.407,Livingston,Philip Sharp,KDFWR,69.7,95,Grass - Moderate,Unknown,Hand,,,7,Moderate,31,4/14/2016,Public
+3/17/2016,Robert Quertermous,37.326,-88.381,Livingston,Philip Sharp,KDFWR,61.1,75,Shrub - Light,Unknown,Hand,,,4,Moderate,12,4/15/2016,Public
+3/16/2016,GRWMA-Wilson Creek,37.32648,-85.28383,Taylor,Brian Gray,KDFWR,31.4,85,Grass - Moderate,Unknown,Hand,,,8,Low,13,,Private
+2/21/2017,"GRWMA, Elkhorn",37.3265,-85.2838,Taylor,Brian Gray,KDFWR,7.3,95,Grass - Moderate,Unknown,Hand,,,6,Low,7,4/15/2013,Private
+3/15/2017,"GRWMA, Wilson Creek",37.3265,-85.2838,Taylor,Brian Gray,KDFWR,35.8,90,Grass - Moderate,Unknown,Hand,,,7,Low,7,3/30/2016,Private
+4/1/2014,HU4,37.333,-86.864,Ohio,Eric Williams,KDFWR,7,95,Grass - Heavy,Unknown,Hand,,,7,Low,3,3/30/2016,Private
+4/1/2014,HU8,37.333,-86.869,Ohio,Eric Williams,KDFWR,71,90,Grass - Moderate,Unknown,Hand,,,5,Low,6,4/9/2013,Private
+4/18/2018,Buckhorn Fuels Reduction,37.335,-83.469,Perry,Shawn Hanley,USACE,4,95,Slash - Moderate,20,Hand,,,5,Low,6,3/21/2011,Private
+4/4/2016,GRWMA-Robinson Creek Lower,37.33513,-85.26736,Taylor,Brian Gray,KDFWR,6.1,95,Grass - Moderate,Unknown,Hand,,,7,Low,6,2/28/2014,Public
+3/26/2019,Livingston County WMA Joiner Road,37.336,-88.428,Livingston,Matt Young,KDFWR,42,90,Grass - Heavy,Unknown,Hand,,,5,Low,6,4/10/2013,Private
+3/29/2017,Liv Co WMA,37.3363,-88.4327,Livingston,Philip Sharp,KDFWR,234.1,95,Grass - Heavy,Unknown,Hand,,,6,Low,6,3/17/2016,Private
+3/29/2016,GRWMA_Stoner Creek,37.33696,-85.22991,Taylor,Brian Gray,KDFWR,35.5,80,Grass - Moderate,Unknown,Hand,,,6,Low,2,,Private
+3/3/2017,"GRWMA, Stoner Creek",37.337,-85.2299,Taylor,Brian Gray,KDFWR,17.2,80,Grass - Light,Unknown,Hand,,,8,Low,6,3/20/2014,Private
+3/27/2019,"GRWMA, Stoner Creek",37.337,-85.23,Taylor,Brian Gray,KDFWR,17.6,85,Grass - Moderate,Unknown,Hand,,,5,,6,3/18/2015,Private
+4/13/2016,Roy Collins,37.3405,-88.3906,Livingston,Philip Sharp,KDFWR,20,100,Grass - Heavy,Unknown,Hand,,,5,Low,6,3/11/2014,Private
+3/31/2015,Roy Collins,37.340693,-88.398031,Livingston,Philip Sharp,KDFWR,37.5,90,Grass - Heavy,Unknown,Hand,,,5,,6,3/11/2014,Private
+4/2/2014,Brian Crump,37.34097,-85.6982,Hart,Chris Mason,KDFWR,35,95,Grass - Heavy,Unknown,Hand,,,5,Low,6,,Private
+4/6/2015,Brian Crump,37.34097,-85.69825,Hart,Chris Mason,KDFWR,35,85,Grass - Moderate,Unknown,Hand,,,5,Low,10,,Private
+3/26/2018,Brian Crump,37.34097,-85.69825,Hart,Chris Mason,KDFWR,34.5,85,Grass - Moderate,Unknown,Hand,,,5,Low,6,4/2/2014,Private
+4/17/2014,R Collins,37.3412,-88.3988,Livingston,Philip Sharp,KDFWR,51.9,90,Grass - Heavy,Unknown,Hand,,,8,,3,4/14/2016,Private
+3/16/2017,Roy Collins,37.34122,-88.39883,Livingston,Philip Sharp,KDFWR,21.8,95,Grass - Light,Unknown,Hand,,,7,Moderate,3,4/1/2014,Public
+2/21/2017,"GRWMA, Long Branch",37.3425,-85.2657,Taylor,Brian Gray,KDFWR,31.4,95,Grass - Moderate,Unknown,Hand,,,7,Low,3,,Public
+3/15/2018,"Green River WMA, Taylor County",37.34258,-85.26571,Taylor,Brian Gray,KDFWR,121.2,100,Grass - Moderate,Unknown,Hand,,,7,Low,3,,Public
+3/7/2019,"GRWMA, Long Branch",37.343,-85.266,Taylor,Brian Gray,KDFWR,13.3,90,Grass - Moderate,Unknown,Hand,,,6,Low,35,,Public
+3/8/2017,"GRWMA, Robinson Creek Upper",37.3447,-85.2393,Taylor,Brian Gray,KDFWR,11.5,95,Grass - Moderate,Unknown,Hand,,,7,Moderate,9,,Public
+3/27/2019,"GRWMA, Robinson Creek Upper",37.345,-85.239,Taylor,Brian Gray,KDFWR,22.6,85,Grass - Moderate,Unknown,Hand,,,3,Low,35,,Public
+3/26/2019,Roy Collins,37.347076,-88.39382,Livingston,Madeleine Pratt/Wes McFaddin,KDFWR,71.9,80,Grass - Moderate,Unknown,Hand,,,2,Low,35,,Public
+3/29/2017,Jarrett Crider,37.3563,-88.4187,Livingston,Philip Sharp,KDFWR,11.6,95,Grass - Moderate,Unknown,Hand,,,5,Low,8,8/25/2011,Public
+4/4/2018,Livingston County WMA Hughes Road,37.357,-88.446,Livingston,Philip Sharp,KDFWR,67.5,85,Grass - Heavy,Unknown,Hand,,,9,Moderate,31,3/30/2016,Public
+3/14/2018,Livingston County WMA Hughes Road,37.3571,-88.4458,Livingston,Philip Sharp,KDFWR,88.2,95,Grass - Heavy,Unknown,Hand,,,9,Low,3,,Public
+3/26/2019,"Mantle Rock Units 2, 6,7,",37.3579,-88.422,Livingston,Chris Minor,TNC,160,85,Grass - Heavy,7,Hand,,,9,Low,1,,Public
+3/20/2017,Jeff Arnold,37.3588,-85.44547,Taylor,Chris Mason,KDFWR,64,85,Grass - Moderate,Unknown,Hand,,,9,Low,1,,Public
+4/9/2014,Mantle Rock CRP fields,37.359,-88.422,Livingston,Chris Minor,TNC,100,90,Grass - Heavy,10,Hand,,,9,Low,10,,Public
+3/17/2016,CRP Fields and woods,37.359,-88.422,Livingston,Chris Minor,TNC,100,100,Litter - Moderate,8,Hand,,,9,Low,1,,Public
+3/19/2019,Livingston County WMA Hughes Road,37.359,-88.427,Livingston,Matt Young,KDFWR,180,90,Grass - Heavy,Unknown,Hand,,,6,Low,3,4/1/2015,Public
+2/20/2016,Jeff Arnold,37.35906,-85.44579,Taylor,Chris Mason,KDFWR,0,95,Grass - Moderate,Unknown,Hand,,,6,Low,3,4/1/2015,Public
+4/21/2014,Jeff Arnold,37.36006,-85.44308,Taylor,Chris Mason,KDFWR,40,100,Grass - Moderate,Unknown,Hand,,,7,Moderate,27,11/15/2013,Private
+3/2/2017,Tom Clore,37.36227,-85.13013,Taylor,Chris Mason,KDFWR,22.4,100,Grass - Heavy,Unknown,Hand,,,12,Moderate,12,10/20/2009,Private
+3/15/2016,Tom Clore,37.36283,-85.13071,Casey,Chris Mason,KDFWR,22.4,100,Grass - Heavy,Unknown,Hand,,,7,Moderate,3,3/10/2014,Private
+3/30/2015,Livingston Co WMA,37.363005,-88.440571,Livingston,Philip Sharp,KDFWR,146.4,75,Grass - Heavy,Unknown,Hand,,,7,Moderate,3,,Private
+2/26/2018,Tom Clore,37.363056,-85.128333,Taylor,Chris Mason,KDFWR,16,100,Grass - Heavy,Unknown,Hand,,,9,Moderate,26,,Private
+3/26/2014,Tom Clore,37.36306,-85.12833,Casey,Chris Mason,KDFWR,22.4,100,Grass - Heavy,Unknown,Hand,,,6,Moderate,34,,Private
+3/17/2015,Tom Clore,37.36306,-85.12833,Casey,Chris Mason,KDFWR,22.4,100,Grass - Heavy,Unknown,Hand,,,6,Moderate,3,,Private
+4/4/2017,Leroy Hodge,37.3764,-88.1452,Crittenden,Philip Sharp,KDFWR,81.5,90,Grass - Moderate,Unknown,Hand,,,22,Moderate,31,,Public
+3/30/2016,Barry White,37.381,-84.568,Lincoln,Chris Mason,KDFWR,32,100,Grass - Heavy,Unknown,Hand,,,Varie,Low,31,,Public
+3/5/2019,White,37.381472,-84.569249,Lincoln,Merle Hacker,KDFWR,33,95,Grass - Heavy,0,Hand,,,8,Moderate,31,2/25/2013,Public
+3/18/2019,Fishtrap Middlefield Strip Mine,37.382305,-82.340972,Pike,Scott Freidhof,KDFWR,80,95,Grass - Moderate,Unknown,Hand,,,20,Moderate,31,3/19/2010,Public
+3/1/2016,Fishtrap Strip Mine,37.38383,-82.33994,Pike,Scott Freidhof,KDFWR,116,85,Grass - Light,Unknown,Hand,,,25,Moderate,31,4/9/2010,Public
+3/16/2017,Harry Carloss,37.3889,-88.3751,Livingston,Philip Sharp,KDFWR,46.9,75,Grass - Moderate,Unknown,Hand,,,30,Moderate,31,3/19/2010,Public
+4/5/2018,StarFire,37.389671,-83.110214,Knott,Merle Hacker,KDFWR,400,85,Grass - Heavy,0,Hand,,,4,Low,10,2/5/2015,Public
+9/24/2015,Bob Martion,37.39483,-85.12181,Taylor,Chris Mason,KDFWR,15,95,Grass - Heavy,Unknown,Hand,,,10,Low,5,3/1/2012,Public
+3/24/2017,Asher,37.396,-84.495,Lincoln,Merle Hacker,KDFWR,6,95,Grass - Moderate,0,Hand,,,10,Low,1,3/1/2015,Public
+10/4/2017,Bob Martion,37.39604,-85.11817,Taylor,Chris Mason,KDFWR,10,95,Grass - Heavy,Unknown,Hand,,,3 Cre,Low,1,3/1/2016,Private
+3/13/2019,Starfire,37.397175,-83.117159,Knott,Merle Hacker,KDFWR,450,80,Grass - Moderate,0,Hand,,,7,Moderate,12,,Public
+4/23/2014,Lynn Farm,37.39994,-87.62472,Hopkins,Glenn Lynn,Private Landowner,75,100,Grass - Heavy,Unknown,Hand,,,6,Moderate,29,,Public
+3/26/2014,Barry Michael,37.40317,-84.81725,Casey,Chris Mason,KDFWR,6.4,90,Grass - Moderate,Unknown,Hand,,,9,Low,2,4/5/2014,Public
+3/21/2017,Barry Michael,37.4035,-84.82182,Casey,Chris Mason,KDFWR,8,95,Grass - Moderate,Unknown,Hand,,,8,Moderate,10,,Public
+4/20/2018,Fishtrap - Biggs Upland Forest - SW Section,37.412028,-82.276944,Pike,Scott Freidhof,KDFWR,29,95,Litter - Moderate,Unknown,Hand,,,9,Moderate,35,,Public
+4/8/2015,Jake Fork,37.41391,-83.18067,Breathitt,Chris Osborne,University of Kentucky,6.7,80,Grass - Moderate,Unknown,Hand,,,9,Moderate,35,,Public
+3/15/2016,2016 Jake Fork NWSG,37.41391,-83.18067,Breathitt,Chris Osborne,University of Kentucky,6.2,100,Grass - Moderate,Unknown,Hand,,,9,Moderate,10,,Public
+4/10/2017,Laurel Fork Unit 2,37.41795,-83.18173,Breathitt,Chris Osborne,University of Kentucky,6.1,95,Grass - Moderate,Unknown,Hand,,,7,Low,4,,Public
+4/1/2015,Kevin Smith,37.42019,-85.84858,Casey,Chris Mason,KDFWR,14.6,75,Grass - Moderate,Unknown,Hand,,,7,Moderate,2,,Public
+4/13/2017,Fishtrap RMEF Forest Project,37.420805,-82.275611,Pike,Scott Freidhof,KDFWR,63,95,Litter - Moderate,Unknown,Hand,,,8,Low,1,3/23/2017,Private
+4/8/2015,Wharton Fork,37.42748,-83.174,Breathitt,Chris Osborne,University of Kentucky,9,90,Grass - Moderate,Unknown,Hand,,,5,,1,,Public
+3/15/2016,2016 Wharton Fork NWSG Field,37.42748,-83.174,Breathitt,Chris Osborne,University of Kentucky,8.1,90,Grass - Moderate,Unknown,Hand,,,7,,1,,Public
+4/10/2017,Laurel Fork Burn Unit 1,37.42935,-83.17371,Breathitt,Chris Osborne,University of Kentucky,7.5,90,Grass - Moderate,Unknown,Hand,,,5,Low,1,9/2/2012,Private
+3/23/2017,Jason Salsman Woods,37.43201,-85.69625,Larue,Chris Mason,KDFWR,6.1,85,Litter - Moderate,Unknown,Hand,,,6,Low,12,3/24/2017,Private
+3/19/2019,Paul Van Booven,37.433873,-83.180175,Breathitt,Merle Hacker,KDFWR,200,80,Grass - Moderate,0,Hand,,,6,Low,2,3/24/2017,Private
+3/23/2017,Jason Salsman - Larue Co.,37.43472,-85.69439,Larue,Chris Mason,KDFWR,0.6,100,Grass - Heavy,Unknown,Hand,,,6,Low,11,4/5/2017,Private
+4/4/2016,Robert Bowling,37.43744,-85.12956,Taylor,Chris Mason,KDFWR,60,75,Grass - Heavy,Unknown,Hand,,,6,Low,11,4/5/2017,Private
+3/13/2017,Robert Bowling,37.43908,-85.14552,Taylor,Chris Mason,KDFWR,48,90,Grass - Moderate,Unknown,Hand,,,6,Low,2,4/10/2017,Public
+4/13/2016,Campbellsville University,37.43912,-85.35789,Taylor,Chris Mason,KDFWR,2.6,100,Grass - Heavy,Unknown,Hand,,,6,Moderate,12,4/10/2017,Public
+4/4/2017,CU Clay Hill Memorial Forest,37.43936,-85.35852,Taylor,Chris Mason,KDFWR,3.8,95,Grass - Heavy,Unknown,Hand,,,6,Moderate,1,3/9/2017,Public
+3/23/2017,Jason Salsman Green Co.,37.4481,-85.65238,Green,Chris Mason,KDFWR,5.1,100,Grass - Heavy,Unknown,Hand,,,8,Moderate,31,3/22/2017,Public
+4/17/2014,Phillips Farm,37.46294,-87.9315,Webster,Dan Phillips,Private Landowner,80,100,Grass - Heavy,Unknown,Hand,,,8,Moderate,31,3/20/2017,Public
+4/16/2014,Blackburn Farm,37.4705,-87.8016,Webster,Roger Blackburn,Private Landowner,25,100,Grass - Heavy,Unknown,Hand,,,8,Low,13,3/20/2017,Public
+3/7/2016,"Big Rivers WMA, Weston Burn",37.47525,-88.06937,Crittenden,Charlie Plush,KDFWR,194,65,Shrub - Moderate,Unknown,Hand,,,8,Moderate,34,3/23/2017,Public
+3/16/2017,Knight Flat Rock East,37.478,-86.014,Hardin,Chris Minor,TNC,30,90,Litter - Moderate,8,Hand,,,7,Moderate,31,3/5/2017,Public
+3/15/2017,WKU Gardner,37.47809,-85.909,Hart,Chris Minor,TNC,60,90,Grass - Moderate,7,Hand,,,7,Moderate,12,3/15/2017,Public
+4/14/2016,Flat Rock Glade,37.4784,-86.02687,Hardin,Chris Minor,TNC,25,55,Litter - Moderate,7,Hand,,,7,Moderate,31,3/16/2017,Public
+3/18/2016,Richard Wells,37.4855,-86.93052778,Ohio,Jared Handley,KDFWR,35,100,Grass - Heavy,Unknown,Hand,,,6,Low,24,3/16/2017,Public
+3/18/2019,Big Rivers WMA,37.4864,-88.042,Crittenden,Charlie Plush,KDFWR,15,100,Grass - Light,Unknown,Hand,,,9,Low,31,3/5/2017,Public
+3/11/2014,Big Rivers WMA Overlook Field Burn,37.489,-88.052,Crittenden,Curt Divine,KDFWR,135,95,Grass - Moderate,35,Hand,,,6,Low,5,3/5/2017,Public
+3/7/2016,"Big Rivers WMA, Units C-9 and C-11",37.49028,-88.04212,Crittenden,Charlie Plush,KDFWR,21,95,Grass - Moderate,Unknown,Hand,,,6,Low,2,3/5/2017,Public
+4/1/2015,Claypool,37.5052638,-85.0645194,Marion,Jason Nally,KDFWR,20.7,80,Grass - Moderate,Unknown,Hand,,,6,Low,11,3/5/2017,Public
+3/5/2019,Dave Jones,37.508566,-84.532152,Lincoln,Merle Hacker,KDFWR,4,95,Grass - Light,0,Hand,,,9,Moderate,26,,Public
+4/13/2016,Duncan Rx Burn,37.510513,-85.132475,Marion,Jason Nally,KDFWR,42,75,Grass - Moderate,Unknown,Hand,,,11,Moderate,26,,Public
+2/4/2017,Big Rivers Hayfield Site Prep,37.519,-88.014,Crittenden,Charlie Plush,KDFWR,80,95,Grass - Light,Unknown,Hand,,,9,Low,1,,Public
+9/28/2017,Big Rivers WMA/SF Caseyville Hill/Overlook Units U,37.519,-88.053,Union,Charlie Plush,KDFWR,34,90,Grass - Moderate,Unknown,Hand,,,11,Moderate,26,,Public
+3/26/2018,Raymond Peyton,37.52069,-85.04861,Marion,Chris Mason,KDFWR,14.5,95,Grass - Moderate,Unknown,Hand,,,7,,1,,Public
+3/30/2016,Brian Garnett,37.521,-84.834,Lincoln,Chris Mason,KDFWR,12,75,Grass - Moderate,Unknown,Hand,,,9,,10,,Public
+3/18/2015,Big Rivers WMA,37.524,-88.011,Crittenden,Charlie Plush,KDFWR,23,80,Shrub - Moderate,Unknown,Hand,,,10,,1,,Public
+3/24/2015,Big Rivers WMA,37.524,-88.011,Crittenden,Charlie Plush,KDFWR,61,55,Shrub - Moderate,Unknown,Hand,,,5,Low,10,,Private
+3/30/2015,Big Rivers WMA,37.524,-88.011,Crittenden,Charlie Plush,KDFWR,223,90,Shrub - Moderate,Unknown,Hand,,,5,Low,10,,Private
+5/1/2018,Berea College Shortleaf Pine Units,37.5243,-84.2432,Madison,Tom Edwards,KDFWR,155,70,Litter - Moderate,8,Hand,,,8,Low,14,,Private
+2/16/2017,Caseyville Hill and Rudolph Burns,37.53,-88.049,Union,Charlie Plush,KDFWR,66,85,Grass - Moderate,Unknown,Hand,,,5,Low,10,,Private
+4/1/2019,Green River Lock 2 Piles,37.53,-87.267,McLean,Chasteen/Pennell,USACE,1,50,Litter - Heavy,Unknown,Hand,,,7,Low,10,,Private
+3/18/2019,Rolling Fork WMA,37.533944,-85.558889,Nelson,Zach Beyer,KDFWR,140,50,Grass - Light,Unknown,Hand,,,8,Low,10,,Private
+4/17/2014,Big Rivers WMA/ Flatwoods Burn,37.5389,-88.0292,Union,John Zimmer,KDFWR,178,75,Litter - Light,Unknown,Hand,,,6,Low,10,,Private
+3/22/2016,Hwy 30,37.5401,-83.34432,Breathitt,Chris Osborne,University of Kentucky,2.1,100,Grass - Heavy,Unknown,Hand,,,10,Low,1,,Public
+3/20/2019,"Berea College Shortleaf Pine Resoration Units 1, 3",37.5409,-84.2396,Madison,Tom Edwards,KDFWR,87.5,75,Litter - Heavy,Unknown,Hand,,,10,Low,10,,Private
+3/18/2019,Big Rivers WMA,37.541,-88.0396,Union,Charlie Plush,KDFWR,14,60,Shrub - Light,Unknown,Hand,,,8,Low,10,,Private
+3/18/2019,Big Rivers WMA,37.541,-88.0396,Union,Charlie Plush,KDFWR,15,80,Shrub - Light,Unknown,Hand,,,7,Low,10,,Private
+3/18/2019,Big Rivers WMA,37.541,-88.0396,Union,Charlie Plush,KDFWR,12,50,Shrub - Light,Unknown,Hand,,,6,Low,10,,Private
+3/18/2019,Big Rivers WMA,37.541,-88.0396,Union,Charlie Plush,KDFWR,3,100,Shrub - Light,Unknown,Hand,,,10,Low,10,,Private
+3/28/2019,Berea College Cowbell Hollow,37.548888,-84.228682,Madison,Tom Edwards,KDFWR,45,75,Litter - Moderate,Unknown,Hand,,,7,Low,1,,Private
+3/16/2019,Berea College Learn & Burn Demo,37.5538,-84.2407,Madison,Tom Edwards,KDFWR,4,95,Litter - Moderate,8,Hand,,,10,Low,10,,Private
+3/24/2017,Jenkins,37.558,-84.662,Lincoln,Merle Hacker,KDFWR,20,100,Grass - Moderate,0,Hand,,,8,Low,10,,Private
+3/5/2019,Jenkins,37.558067,-84.662176,Lincoln,Merle Hacker,KDFWR,20,90,Grass - Moderate,0,Hand,,,8,Low,10,,Private
+3/12/2014,Deer Creek Farm,37.564548,-87.577901,Webster,Deer Creek Lodge LLC,Private Landowner,59,100,Grass - Moderate,Unknown,Hand,,,9,Low,10,,Private
+3/24/2015,Windham,37.59423,-85.439986,Marion,Jason Nally,KDFWR,25.8,85,Grass - Moderate,Unknown,Hand,,,8,Low,10,,Private
+9/23/2016,Eastview,37.598,-86.0545,Hardin,Chris Minor,TNC,20,75,Shrub - Moderate,10,Hand,,,7,Low,10,,Private
+4/2/2019,Phillip Charles,37.607269,-83.69732333,Lee,Merle Hacker/Randall Alcorn,KDFWR,25,80,Grass - Heavy,Unknown,Hand,,,6,Low,6,,Private
+3/31/2015,Higginson-Henry WMA,37.624,-87.836,Union,Charlie Plush,KDFWR,60,95,Grass - Heavy,Unknown,Hand,,,6,Low,6,3/30/2015,Private
+3/18/2015,Higginson-Henry WMA,37.625,-87.836,Union,Charlie Plush,KDFWR,27.3,90,Grass - Moderate,Unknown,Hand,,,6,Low,6,3/30/2015,Private
+3/17/2016,Higginsion-Henry WMA,37.62572,-87.80703,Union,Charlie Plush,KDFWR,54,95,Grass - Moderate,Unknown,Hand,,,6,Low,6,,Private
+3/31/2014,Higginson Henry WMA,37.629,-87.875,Union,Curt Divine,KDFWR,49.4,85,Grass - Moderate,Unknown,Hand,,,6,Low,7,,Private
+4/1/2014,Higginson Henry WMA,37.629,-87.875,Union,Curt Divine,KDFWR,111.4,90,Grass - Moderate,Unknown,Hand,,,6,Low,31,,Private
+3/30/2016,Don Hayden Burn,37.63769444,-87.29458333,Daviess,Jared Handley,KDFWR,20,75,Grass - Moderate,Unknown,Hand,,,6,Low,6,3/26/2014,Private
+4/17/2014,Higginson-Henry WMA,37.6424,-87.8808,Union,Curt Divine,KDFWR,37,90,Grass - Moderate,Unknown,Hand,,,5,Low,6,,Private
+3/24/2014,Ben Smith,37.6503889,-86.3658889,Breckinridge,Jared Handley,KDFWR,43,90,Grass - Heavy,Unknown,Hand,,,6,Low,6,4/14/2011,Private
+3/14/2016,Tract 3 gate 6,37.66,-84.55,Madison,Tom Edwards,KDFWR,18,95,Grass - Moderate,Unknown,Hand,,,5,Low,6,,Private
+3/9/2018,Tract 3 West w/o Sub Station,37.66057,-84.22318,Madison,Tom Edwards,KDFWR,204,40,Grass - Light,Unknown,Hand,,,5,Low,6,,Private
+4/9/2014,Tract 3 East,37.66067,-84.19556,Madison,Tom Edwards,KDFWR,45,85,Grass - Heavy,Unknown,Hand,,,5,Low,6,4/5/2016,Private
+4/18/2017,Tract 3 subtract,37.6608,-84.1956,Madison,Tom Edwards,KDFWR,30,80,Grass - Moderate,Unknown,Hand,,,5,Low,6,4/5/2016,Private
+4/5/2018,BGAD Tract 3 East_east,37.6629,-84.19088,Madison,Tom Edwards,KDFWR,45,90,Grass - Moderate,Unknown,Hand,,,5,Low,6,4/4/2016,Private
+4/5/2017,Pasture 1 patch burn,37.6636,-84.1965,Madison,Tom Edwards,KDFWR,8,95,Grass - Moderate,Unknown,Hand,,,5,Low,6,3/21/2014,Private
+3/29/2016,Perryville Battlefield State Park,37.6637306,-84.956519,Boyle,Josh Lillpop,KDFWR,160,20,Grass - Moderate,Unknown,Hand,,,6,Low,6,3/28/2016,Private
+4/11/2015,Native Grass Pasture 1,37.665222,-84.195861,Madison,Tom Edwards,KDFWR,8,95,Grass - Heavy,Unknown,Hand,,,6,Low,6,3/26/2014,Private
+4/5/2018,BGAD Pasture 1,37.66525,-84.19582,Madison,Tom Edwards,KDFWR,27,85,Grass - Moderate,Unknown,Hand,,,5,Low,7,3/15/2017,Private
+3/21/2013,None,37.66538889,-84.19569444,Madison,Tom Edwards,KDFWR,27,85,Grass - Heavy,Unknown,Hand,,,6,Low,6,3/28/2016,Private
+4/22/2019,BGAD Lake Gem Big Bluestem seed field,37.666125,-84.239325,Madison,Tom Edwards,KDFWR,8,100,Grass - Heavy,Unknown,Hand,,,6,Low,6,3/21/2014,Private
+2/6/2013,None,37.66675,-84.23894444,Madison,Tom Edwards,KDFWR,12,95,Grass - Heavy,Unknown,Hand,,,6,Low,6,3/27/2015,Private
+4/22/2019,BGAD Lake Gem Indiangrass seed field,37.666947,-84.236409,Madison,Tom Edwards,KDFWR,12,100,Grass - Heavy,Unknown,Hand,,,5,Low,6,4/13/2016,Private
+4/22/2015,Big Bluestem seed harvest field Lake Gem,37.667055,-84.238833,Madison,Tom Edwards,KDFWR,10,95,Grass - Heavy,Unknown,Hand,,,5,Low,6,,Private
+4/16/2014,Lake Gem Big Bluestem,37.66706,-84.23886,Madison,Tom Edwards,KDFWR,8,95,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Public
+3/28/2013,None,37.66727778,-84.19188889,Madison,Tom Edwards,KDFWR,219,75,Grass - Moderate,Unknown,Hand,,,6,Low,1,,Public
+3/23/2017,Lake Gem Big Bluestem,37.6677,-84.2389,Madison,Tom Edwards,KDFWR,8,95,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Public
+3/23/2017,Lake Gem Indiangrass,37.6677,-84.2359,Madison,Tom Edwards,KDFWR,12,95,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Public
+4/9/2014,Lake Gem Indiangrass,37.66778,-84.2359,Madison,Tom Edwards,KDFWR,12,95,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Public
+4/22/2015,Indiangrass seed production field Lake Gem,37.667833,-84.235944,Madison,Tom Edwards,KDFWR,12,95,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Public
+2/6/2013,None,37.66783333,-84.23586111,Madison,Tom Edwards,KDFWR,8,95,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Public
+5/2/2018,BGAD Indiangrass Seed field,37.66989,-84.234493,Madison,Tom Edwards,KDFWR,12,100,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Public
+3/14/2016,Tract 5 pasture 6,37.671,-84.251,Madison,Tom Edwards,KDFWR,8,80,Grass - Moderate,Unknown,Hand,,,6,Low,10,,Public
+4/5/2018,BGAD R5 south portion,37.67253,-84.1916,Madison,Tom Edwards,KDFWR,15,100,Grass - Heavy,Unknown,Hand,,,7,Low,1,,Public
+4/18/2017,"Tract 4 south, gate R-5",37.6728,-84.1917,Madison,Tom Edwards,KDFWR,55,80,Grass - Moderate,Unknown,Hand,,,7,Low,1,,Public
+2/27/2018,BGAD Tract 4 South R-5,37.67295,-84.19171,Madison,Tom Edwards,KDFWR,35,80,Grass - Light,Unknown,Hand,,,5,Low,1,,Public
+3/14/2016,Tract 3/4,37.6768,-84.2516,Madison,Tom Edwards,KDFWR,95,75,Grass - Moderate,Unknown,Hand,,,5,Low,1,,Public
+3/14/2016,Tract 4 North,37.6768,-84.2516,Madison,Tom Edwards,KDFWR,27,95,Grass - Moderate,Unknown,Hand,,,7,Low,26,,Public
+4/5/2017,BGAD Admin Area,37.6778,-84.2473,Madison,Tom Edwards,KDFWR,6,70,Grass - Moderate,Unknown,Hand,,,6,Low,1,,Public
+3/24/2017,Dewey - Turnhole Forest Mgmt Unit,37.678833,-82.632416,Floyd,Zachary Slinker,KDFWR,25,100,Litter - Moderate,Unknown,Hand,,,5,Low,1,,Public
+3/14/2016,Tract 5 pasture 3,37.682,-84.562,Madison,Tom Edwards,KDFWR,8,80,Grass - Light,Unknown,Hand,,,6,Low,1,,Public
+3/30/2016,Dewey - Buffalo Creek Forest Mgmt Unit - Goat Mnt,37.68375,-82.6423,Floyd,Scott Freidhof,KDFWR,33,85,Litter - Moderate,Unknown,Hand,,,5,Low,1,,Public
+2/27/2018,BGAD Tract 4 north silo field,37.68404,-84.18344,Madison,Tom Edwards,KDFWR,77,90,Grass - Moderate,Unknown,Hand,,,7,Moderate,2,,Private
+4/18/2017,Tract 4 Silo Field,37.6841,-84.1834,Madison,Tom Edwards,KDFWR,16,80,Grass - Moderate,Unknown,Hand,,,7,Moderate,10,,Private
+3/10/2016,Dewey - Turnhole Forest Mgmt Unit - Mnt in the Mid,37.6845,-82.63569,Floyd,Scott Freidhof,KDFWR,43,95,Litter - Moderate,Unknown,Hand,,,9,Moderate,10,,Public
+3/16/2017,Dewey - Turnhole Forest Mgmt Unit,37.687111,-82.635472,Floyd,Scott Freidhof,KDFWR,63,85,Litter - Moderate,Unknown,Hand,,,9,Moderate,10,,Public
+4/5/2017,Pasture 6 Patch burn,37.6896,-84.1847,Madison,Tom Edwards,KDFWR,8,90,Grass - Moderate,Unknown,Hand,,,9,Moderate,10,,Public
+4/11/2015,Native grass Pasture 6,37.689694,-84.179861,Madison,Tom Edwards,KDFWR,8,95,Grass - Heavy,Unknown,Hand,,,8,Moderate,26,,Private
+4/18/2017,Dove Field area,37.6909,-84.1864,Madison,Tom Edwards,KDFWR,10,90,Grass - Heavy,Unknown,Hand,,,8,Moderate,26,,Private
+3/28/2019,Anderson Burn,37.692,-84.161,Madison,Chris Grasch,KDFWR,2,100,Grass - Heavy,Unknown,Hand,,,6,Low,3,,Public
+4/11/2015,Native grass Pasture 3,37.696555,-84.183138,Madison,Tom Edwards,KDFWR,8,95,Grass - Heavy,Unknown,Hand,,,6,Low,3,,Public
+3/23/2017,Lake Vega Tailwater,37.6969,-84.2159,Madison,Tom Edwards,KDFWR,9,85,Grass - Heavy,Unknown,Hand,,,6,Low,5,3/1/2016,Public
+4/5/2017,Pasture 3 patch burn,37.6974,-84.1863,Madison,Tom Edwards,KDFWR,8,90,Grass - Moderate,Unknown,Hand,,,6,Low,5,3/1/2016,Public
+4/5/2018,BGAD R6 Pasture 3,37.69749,-84.18317,Madison,Tom Edwards,KDFWR,25,85,Grass - Moderate,Unknown,Hand,,,5,Moderate,3,,Public
+4/5/2018,BGAD R6 Pasture 3a,37.69835,-84.18404,Madison,Tom Edwards,KDFWR,6,100,Grass - Heavy,Unknown,Hand,,,5,Moderate,5,,Public
+4/22/2019,BGAD Route 3 Route 9 Native Grass,37.698644,-84.215619,Madison,Tom Edwards,KDFWR,10,75,Grass - Moderate,Unknown,Hand,,,5,Low,3,3/1/2017,Public
+4/9/2017,Puckett,37.699,-85.762,Hardin,Chris Minor,TNC,15,60,Litter - Moderate,7,Hand,,,10,Moderate,3,,Public
+3/28/2013,None,37.69922222,-84.18561111,Madison,Tom Edwards,KDFWR,105,75,Grass - Moderate,Unknown,Hand,,,11,Moderate,3,,Public
+4/19/2016,Lake Gem Big Bluestem,37.7,-84.24,Madison,Tom Edwards,KDFWR,10,100,Grass - Heavy,Unknown,Hand,,,9,Moderate,3,,Public
+4/19/2016,Lake Gem Indiangrass,37.7018,-84.2421,Madison,Tom Edwards,KDFWR,12,100,Grass - Heavy,Unknown,Hand,,,7,Moderate,3,,Public
+4/10/2014,Tompkins Farm,37.709138,-87.52694,Henderson,Glenn Tompkins,Private Landowner,25,100,Grass - Moderate,Unknown,Hand,,,7,Moderate,5,,Public
+3/10/2014,Sellars Farm,37.721861,-87.62472,Henderson,Mark Sellars,Private Landowner,12,100,Grass - Heavy,Unknown,Hand,,,5,Moderate,3,,Public
+3/9/2017,Dewey - Wildlife Opening,37.723944,-82.737055,Floyd,Scott Freidhof,KDFWR,20,90,Grass - Moderate,Unknown,Hand,,,20,Moderate,31,2/25/2013,Public
+4/18/2018,Dewey Wildlife Opening,37.725639,-82.738444,Floyd,Scott Freidhof,KDFWR,18,95,Grass - Moderate,Unknown,Hand,,,20,,15,3/7/2012,Public
+3/11/2014,Dupree,37.7974,-84.6434,Garrard,Chris Minor,TNC,60,100,Grass - Heavy,8,Hand,,,7,Low,6,9/24/2015,Private
+3/7/2016,Dupree 1 and 2,37.7974,-84.6434,Garrard,Chris Minor,TNC,40,100,Grass - Heavy,8,Hand,,,6,Low,1,,Public
+3/12/2019,Dupree,37.7994,-84.6451,Garrard,Chris Minor,TNC,30,100,Grass - Heavy,7,Hand,,,7,Low,2,,Public
+3/23/2016,HA81,37.8,-85.8983,Hardin,Fort Knox Natural Resources Branch,DOD,53,100,Grass - Heavy,10,Hand,,,7,Low,2,3/5/2017,Public
+4/6/2015,Smith WWCA East Unit,37.800605,-83.515435,Wolfe,Zeb Weese,HLCF,27,95,Grass - Moderate,Unknown,Hand,,,5,Low,10,,Public
+3/8/2016,HA89 Block 2,37.8101,-85.8138,Hardin,Fort Knox Natural Resources Branch,DOD,36,95,Slash - Moderate,20,Hand,,,12,Moderate,11,,Public
+4/3/2016,HA79,37.812,-85.893,Hardin,Fort Knox Natural Resources Branch,DOD,87,95,Litter - Moderate,15,Hand,,,12,Moderate,29,,Public
+3/8/2016,HA89/90,37.8131,-85.7983,Hardin,Fort Knox Natural Resources Branch,DOD,57,95,Litter - Moderate,15,Hand,,,8,Low,10,3/1/2010,Public
+3/12/2019,Sally Brown,37.8153,-84.6848,Garrard,Chris Minor,TNC,20,95,Grass - Moderate,8,Hand,,,9,Moderate,13,3/1/2015,Public
+4/1/2015,HA89,37.816,-85.799,Hardin,Fort Knox Natural Resources Branch,DOD,46,95,Litter - Moderate,20,Hand,,,9,Moderate,13,,Public
+3/20/2014,Rowan_Brown,37.8162,-84.6837,Garrard,Chris Minor,TNC,45,100,Grass - Heavy,8,Hand,,,7,Low,13,3/1/2015,Public
+3/3/2017,Shaker VIllage,37.81733333,-84.74025,Mercer,Ben Robinson,KDFWR,444,80,Grass - Moderate,Unknown,Hand,,,8,Low,13,3/1/2015,Public
+3/7/2014,Shaker Village,37.81755,-84.74055,Mercer,Ben Robinson,KDFWR,297,90,Grass - Moderate,Unknown,Hand,,,7,Moderate,13,3/1/2015,Public
+3/10/2014,Shaker Village,37.81755,-84.74055,Mercer,Ben Robinson,KDFWR,160,90,Grass - Moderate,Unknown,Hand,,,9,Low,11,,Public
+3/18/2015,Shaker Village,37.81755,-84.74055,Mercer,Ben Robinson,KDFWR,390.5,90,Grass - Moderate,Unknown,Hand,,,12,Moderate,13,,Private
+2/27/2019,Shaker Village,37.81755556,-84.74061389,Mercer,Ben Robinson,KDFWR,420,70,Grass - Moderate,Unknown,Hand,,,10,Moderate,31,3/15/2018,Public
+3/4/2013,None,37.81756944,-84.74061389,Mercer,Ben Robinson,KDFWR,265,60,Grass - Moderate,Unknown,Hand,,,5,Low,31,1/26/2018,Public
+3/4/2014,None,37.81798056,-84.68226111,Garrard,Chris Minor,TNC,80,0,Grass - Heavy,Unknown,Hand,,,20,Moderate,34,3/9/2018,Public
+3/30/2015,HA84,37.818,-85.838,Hardin,Fort Knox Natural Resources Branch,DOD,63,95,Litter - Moderate,20,Hand,,,20,,34,3/23/2018,Public
+2/11/2015,Medley Drop Zone (HA82),37.8247,-85.8544,Hardin,Fort Knox Natural Resources Branch,DOD,358,75,Grass - Moderate,20,Hand,,,20,,31,3/4/2018,Public
+3/7/2016,Medley Drop Zone HA82,37.8249,-85.8543,Hardin,Fort Knox Natural Resources Branch,DOD,335,95,Grass - Moderate,10,Hand,,,7,,31,3/9/2018,Public
+2/27/2019,Atcher Drop Zone,37.825,-85.855,Hardin,Natural Resources Branch,DOD,334,90,Grass - Moderate,10,Hand,,,15,Moderate,34,3/9/2018,Public
+3/28/2019,HA79 Pine sale,37.825,-85.9,Hardin,Fort Knox Natural Resources Branch,DOD,100,90,Slash - Moderate,10,Hand,,,20,,31,2/27/2018,Public
+3/16/2017,HA79 Triangle,37.828,-85.903,Hardin,Fort Knox Natural Resources Branch,DOD,14,95,Slash - Moderate,10,Hand,,,20,,31,3/3/2018,Public
+4/14/2016,Lackey,37.829722,-84.143427,Madison,Joe Lacefield,KDFWR,15,100,Grass - Light,Unknown,Hand,,,20,Moderate,31,2/20/2018,Public
+4/5/2017,CCFGC Unit 1,37.831,-84.01,Estill,Merle Hacker,KDFWR,14,75,Grass - Moderate,0,Hand,,,20,,31,3/3/2018,Public
+3/16/2017,HA77,37.832,-85.9,Hardin,Fort Knox Natural Resources Branch,DOD,93,95,Slash - Moderate,10,Hand,,,10,Moderate,10,3/1/2015,Public
+4/5/2017,CCFGC Unit 2,37.835,-84.099,Estill,Merle Hacker,KDFWR,5,80,Grass - Moderate,0,Hand,,,8,Moderate,12,,Public
+3/24/2015,Shaker Village-Teater Farm,37.83634,-84.83633,Mercer,Ben Robinson,KDFWR,58,60,Grass - Moderate,Unknown,Hand,,,12,Low,12,3/1/2015,Public
+3/22/2013,None,37.85067222,-86.22333611,Breckinridge,Chris Minor,TNC,78,90,Grass - Moderate,40,Hand,,,8,Low,12,,Public
+2/17/2017,Paintsville - Auxier Flats,37.851888,-82.893472,Johnson,Zachary Slinker,KDFWR,13,95,Grass - Moderate,Unknown,Hand,,,7,Low,1,,Public
+4/3/2019,Yano Range (north),37.853,-85.788,Bullitt,Fort Knox Natural Resources Branch,DOD,637,95,Grass - Moderate,10,Hand,,,10,Moderate,34,3/23/2018,Public
+3/14/2013,None,37.85546667,-86.212025,Breckinridge,Chris Minor,TNC,150,95,Grass - Moderate,30,Hand,,,8,Low,7,,Private
+4/3/2019,St. Vith Range,37.858,-85.866,Hardin,Natural Resources Branch,DOD,835,100,Grass - Moderate,10,Hand,,,5,Low,1,,Public
+4/1/2015,Sloughs WMA,37.859,-87.78,Henderson,Charlie Plush,KDFWR,42,90,Grass - Moderate,Unknown,Hand,,,7,Low,1,4/6/2018,Private
+3/13/2017,Paintsville - Auxier Flats,37.859527,-82.892055,Johnson,Zachary Slinker,KDFWR,19,100,Grass - Moderate,Unknown,Hand,,,8,Low,3,4/1/2016,Public
+3/8/2016,Paintsville - Glade Branch FMU Powerline Field,37.85961,-82.89205,Johnson,Zachary Slinker,KDFWR,15,85,Grass - Moderate,Unknown,Hand,,,8,Low,2,4/1/2017,Public
+10/20/2015,HA73 Block 1 and 2,37.8623,-85.9344,Hardin,Fort Knox Natural Resources Branch,DOD,47,95,Slash - Moderate,20,Hand,,,8,Moderate,3,4/1/2016,Public
+10/21/2015,HA73 Block 3 and 5,37.8623,-85.94038,Hardin,Fort Knox Natural Resources Branch,DOD,91,95,Slash - Moderate,20,Hand,,,8,Low,2,4/1/2017,Public
+3/14/2013,None,37.862925,-86.23480556,Breckinridge,Chris Minor,TNC,140,95,Grass - Moderate,30,Hand,,,7,Low,2,,Public
+4/3/2019,Yano Range (impact area),37.865,-85.792,Bullitt,Fort Knox Natural Resources Branch,DOD,245,90,Shrub - Light,15,Hand,,,9,Low,10,,Private
+3/18/2015,HA15 brush pile #2 (logging debris),37.868,-85.971,Hardin,Fort Knox Natural Resources Branch,DOD,5,80,Slash - Heavy,20,Hand,,,9,Low,10,,Private
+3/22/2017,HA15,37.868,-85.975,Hardin,Fort Knox Natural Resources Branch,DOD,65,95,Litter - Moderate,15,Hand,,,6,Low,1,,Private
+3/23/2015,HA14A,37.869,-85.993,Meade,Fort Knox Natural Resources Branch,DOD,70,100,Grass - Moderate,15,Hand,,,8,Moderate,1,,Private
+4/4/2019,St. Vith Cedar Glades,37.869,-85.878,Hardin,Natural Resources Branch,DOD,236,95,Litter - Moderate,15,Hand,,,12,Moderate,1,,Private
+3/18/2015,HA15 brush pile #1 (logging debris),37.871,-85.976,Hardin,Fort Knox Natural Resources Branch,DOD,9,80,Slash - Heavy,20,Hand,,,11,Low,10,,Public
+4/5/2016,HA14,37.871,-85.988,Meade,Fort Knox Natural Resources Branch,DOD,50,95,Grass - Heavy,20,Hand,,,12,Low,1,,Public
+3/4/2018,Gullett Branch Old Field Units,37.873277,-82.913944,Johnson,Zachary Slinker,KDFWR,24,85,Grass - Moderate,Unknown,Hand,,,7,Moderate,1,,Private
+3/20/2017,HA14,37.876,-85.987,Meade,Fort Knox Natural Resources Branch,DOD,47,95,Litter - Moderate,10,Hand,,,7,Low,1,,Private
+4/14/2016,HA14 cedar harvest area,37.88,-85.992,Meade,Fort Knox Natural Resources Branch,DOD,71,95,Litter - Moderate,15,Hand,,,7,Moderate,10,,Private
+4/5/2016,Irvington Wildlife Education Park Unit,37.88037,-86.29262,Breckinridge,Jared Handley,KDFWR,25,95,Grass - Light,Unknown,Hand,,,8,Low,1,,Private
+3/23/2015,HA13A #2,37.886,-86.003,Meade,Fort Knox Natural Resources Branch,DOD,56,95,Shrub - Moderate,20,Hand,,,8,Moderate,17,,Public
+3/23/2015,HA13A #1,37.889,-86.009,Meade,Fort Knox Natural Resources Branch,DOD,57,95,Shrub - Moderate,20,Hand,,,6,Low,1,,Public
+3/23/2015,HA13,37.892,-86.007,Meade,Fort Knox Natural Resources Branch,DOD,77,95,Shrub - Moderate,20,Hand,,,6,Low,1,,Public
+4/1/2015,HA13 Snow Mountain,37.899,-86.001,Meade,Fort Knox Natural Resources Branch,DOD,71,95,Shrub - Moderate,20,Hand,,,6,Low,1,,Public
+4/10/2017,Keyes Park,37.901,-85.974,Hardin,Fort Knox Natural Resources Branch,DOD,13,100,Grass - Moderate,10,Hand,,,7,Moderate,10,3/9/2017,Public
+4/2/2019,Airfield Pollinator Units,37.907,-85.979,Hardin,Fort Knox Natural Resources Branch,DOD,71,95,Grass - Moderate,15,Hand,,,15,High,26,,Public
+3/9/2018,Airfield Pollinator Units,37.91,-85.973,Hardin,Natural Resources Branch,DOD,34,100,Grass - Moderate,10,Hand,,,10,Moderate,26,,Private
+3/9/2018,Airfield Pollinator Units,37.91,-85.973,Hardin,Natural Resources Branch,DOD,153,100,Grass - Moderate,10,Hand,,,4,Low,3,4/13/2017,Public
+4/5/2017,Carolyn Nelson King,37.91236,-84.33435,Clark,Chris Mason,KDFWR,10.5,80,Grass - Moderate,Unknown,Hand,,,11,Moderate,34,,Public
+4/10/2017,Airfield Fence Area,37.913,-85.968,Hardin,Fort Knox Natural Resources Branch,DOD,7,100,Shrub - Light,10,Hand,,,10,Moderate,34,,Public
+3/30/2016,HA8,37.914,-86.001,Meade,Fort Knox Natural Resources Branch,DOD,92,85,Litter - Moderate,15,Hand,,,10,Low,12,4/10/2017,Public
+3/29/2016,2016 Morgan County NWSG,37.91585,-83.23888,Morgan,Chris Osborne,University of Kentucky,4.6,100,Grass - Moderate,Unknown,Hand,,,5,Low,6,3/29/2018,Private
+3/9/2017,TA11 - Tow Dragon Range,37.917,-85.976,Hardin,Fort Knox Natural Resources Branch,DOD,34,100,Shrub - Moderate,10,Hand,,,5,Low,6,4/6/2015,Private
+3/12/2018,Wilson Road Pollinator Units,37.917,-85.97,Hardin,Natural Resources Branch,DOD,34,100,Grass - Light,10,Hand,,,5,Low,6,,Private
+3/5/2017,Cantonment Area near loading dock,37.919,-85.959,Hardin,Fort Knox Natural Resources Branch,DOD,9,100,Grass - Light,10,Hand,,,5,Low,6,3/15/2016,Private
+4/2/2019,Tow Dragon Range,37.919,-85.976,Hardin,Fort Knox Natural Resources Branch,DOD,20,100,Grass - Moderate,15,Hand,,,5,Low,6,3/20/2017,Private
+3/5/2018,Pollinator - Junior Duke,37.92,-85.971,Hardin,Natural Resources Branch,DOD,3,100,Grass - Light,10,Hand,,,7,Low,6,4/1/2014,Private
+3/5/2017,HA20 - near airfield,37.921,-85.97,Hardin,Fort Knox Natural Resources Branch,DOD,16,100,Shrub - Light,10,Hand,,,5,Low,6,4/1/2014,Private
+3/9/2016,HA20,37.922,-85.966,Hardin,Fort Knox Natural Resources Branch,DOD,35,85,Grass - Heavy,15,Hand,,,6,Low,6,3/16/2017,Private
+3/17/2016,HA8,37.9235,-86.01794,Meade,Fort Knox Natural Resources Branch,DOD,38,95,Shrub - Moderate,15,Hand,,,6,Low,6,3/16/2017,Private
+3/5/2017,HA19 - near Brandenburg Gate,37.925,-85.978,Hardin,Fort Knox Natural Resources Branch,DOD,9,100,Grass - Light,10,Hand,,,6,,6,3/9/2017,Private
+2/26/2019,HA19 Pollinator Plot,37.925,-85.977,Hardin,Natural Resources Branch,DOD,34,80,Grass - Moderate,10,Hand,,,6,Low,6,3/8/2017,Private
+3/5/2017,HA19,37.932,-85.965,Hardin,Fort Knox Natural Resources Branch,DOD,10,100,Litter - Moderate,10,Hand,,,5,Low,6,3/2/2018,Private
+3/6/2018,Natural Resources Branch Office Pollinator Unit,37.932,-85.948,Hardin,Natural Resources Branch,DOD,10,100,Grass - Light,10,Hand,,,6,Low,6,2/20/2018,Private
+3/5/2017,HA18-19,37.937,-85.963,Hardin,Fort Knox Natural Resources Branch,DOD,197,95,Litter - Moderate,10,Hand,,,9,Low,12,4/5/2018,Private
+3/20/2017,HA18,37.939,-85.952,Hardin,Fort Knox Natural Resources Branch,DOD,7,95,Shrub - Light,10,Hand,,,2,Low,26,,Public
+3/15/2017,HA48 - Wilcox Range,37.943,-85.801,Bullitt,Fort Knox Natural Resources Branch,DOD,900,95,Grass - Moderate,10,Hand,,,12,Moderate,1,5/1/2006,Private
+3/20/2014,John Davis,37.9433056,-86.4317222,Breckinridge,Jared Handley,KDFWR,25,100,Grass - Heavy,Unknown,Hand,,,3 cre,Low,1,3/1/2017,Private
+3/31/2015,HA18,37.944,-85.959,Hardin,Fort Knox Natural Resources Branch,DOD,128,90,Litter - Moderate,20,Hand,,,7,Moderate,3,3/5/2017,Public
+3/9/2016,Paintsville - Route 172 and Patoker Road Fields,37.94697,-82.99964,Morgan,Zachary Slinker,KDFWR,75,75,Grass - Light,Unknown,Hand,,,7,Low,12,3/7/2016,Public
+3/23/2017,Paintsville - Route 172 and Patoker Road Fields,37.948027,-83.003111,Morgan,Zachary Slinker,KDFWR,54,85,Grass - Moderate,Unknown,Hand,,,7,Low,5,3/5/2018,Public
+4/4/2016,HA3-4 Red Lion kudzu,37.958,-86.004,Meade,Fort Knox Natural Resources Branch,DOD,17,95,Litter - Moderate,15,Hand,,,7,Low,5,3/6/2018,Public
+4/13/2016,Tegeler Rx Burn,37.960679,-85.180698,Nelson,Jason Nally,KDFWR,17.4,100,Grass - Light,Unknown,Hand,,,7,Moderate,5,3/12/2018,Public
+4/4/2016,Yellowbank WMA- TU1,37.9653,-86.47,Breckinridge,Ryan Taylor,KDFWR,252,85,Grass - Heavy,Unknown,Hand,,,7,Moderate,5,3/12/2018,Public
+4/2/2019,Shelman Cemetery Unit,37.9654,-86.4729,Breckinridge,Ryan Taylor,KDFWR,252,85,Grass - Heavy,Unknown,Hand,,,7,Moderate,5,3/9/2018,Public
+3/18/2016,HA2,37.9839,-86.0047,Meade,Fort Knox Natural Resources Branch,DOD,151,90,Litter - Heavy,15,Hand,,,9,Low,1,3/1/2017,Public
+4/5/2016,Pine Creek Barrens,37.98441,-85.62885,Bullitt,Chris Minor,TNC,23,90,Litter - Moderate,8,Hand,,,8,Low,1,3/1/2017,Public
+4/3/2019,"Pine Creek Units 3,4,5",37.98441,-85.62885,Bullitt,Chris Minor,TNC,20,85,Litter - Moderate,8,Hand,,,16,High,1,3/1/2016,Public
+4/4/2016,HA2,37.987,-86.006,Meade,Fort Knox Natural Resources Branch,DOD,78,95,Litter - Moderate,15,Hand,,,10,Moderate,11,3/5/2018,Public
+3/20/2014,Yellowbank WMA- T1,37.99,-86.48,Breckinridge,Ryan T Taylor,KDFWR,62,90,Grass - Heavy,Unknown,Hand,,,16,High,31,,Public
+3/23/2017,HA34,37.991,-85.842,Bullitt,Fort Knox Natural Resources Branch,DOD,36,95,Litter - Moderate,10,Hand,,,11,Low,10,4/10/2018,Private
+4/4/2016,Yellowbank WMA- TU2,37.9912,-86.4746,Breckinridge,Ryan Taylor,KDFWR,62,90,Grass - Heavy,Unknown,Hand,,,6,Low,2,,Private
+4/10/2019,Taylorsville Lake Pollinator,38.0004,-85.308,Spencer,Evan McKinney,USACE,0.1,95,Grass - Light,Unknown,Hand,,,6,Low,2,3/24/2017,Private
+4/15/2016,HA29 Kudzu,38.002,-85.919,Bullitt,Fort Knox Natural Resources Branch,DOD,20,100,Grass - Moderate,15,Hand,,,6,Low,7,3/24/2017,Private
+3/20/2014,Briar Ridge - 2014,38.012197,-85.238058,Spencer,Bill Mitchell,KDFWR,20.1,100,Grass - Moderate,Unknown,Hand,,,14,Low,11,,Public
+3/19/2018,Taylorsville Lake WMA,38.012486,-85.298548,Spencer,Zach Beyer,KDFWR,93,70,Grass - Moderate,Unknown,Hand,,,5,Moderate,1,3/16/2017,Public
+2/21/2017,TLWMA,38.020454,-85.336445,Spencer,Josh Lillpop,KDFWR,11,95,Grass - Moderate,0,Hand,,,7,Low,10,,Private
+2/21/2017,TLWMA,38.020454,-85.336445,Spencer,Josh Lillpop,KDFWR,9,90,Grass - Light,0,Hand,,,7,Low,1,,Private
+3/24/2014,Yellowbank WMA- T1,38.03,-86.53,Breckinridge,Ryan T Taylor,KDFWR,66,90,Grass - Heavy,Unknown,Hand,,,6,Low,26,,Private
+3/27/2019,Greg Lewis Burn,38.032081,-83.384538,Morgan,Robert Lewis,KDFWR,22.4,70,Grass - Moderate,Unknown,Hand,,,9,Moderate,26,,Private
+3/29/2019,Wolfpen Unit,38.0643,-82.772827,Lawrence,James Woods,KDFWR,133,90,Litter - Moderate,Unknown,Hand,,,8,Moderate,16,,Public
+3/28/2019,Cherokee-Irish Creek,38.06603,-82.805736,Lawrence,Robert Lewis,KDFWR,187,85,Litter - Heavy,Unknown,Hand,,,5,High,6,,Private
+4/11/2018,Strip Mine Unit,38.067244,-82.83004,Lawrence,Jimmy Woods,KDFWR,120,95,Litter - Heavy,Unknown,Hand,,,8,Moderate,1,,Public
+4/15/2016,"Rybka 1,2,4,5",38.1068,-83.4249,Rowan,Chris Minor,TNC,30,90,Grass - Moderate,7,Hand,,,5,Low,1,,Private
+9/26/2013,None,38.17213889,-84.92244444,Franklin,Dave Frederick,KDFWR,4.6,90,Grass - Heavy,70,Hand,,,6,Low,10,,Private
+3/27/2019,KDFWR HQ 2019,38.173029,-84.922464,Franklin,Kyle Sams,KDFWR,20,90,Grass - Moderate,Unknown,Hand,,,8,Moderate,31,,Public
+3/16/2018,KDFWR HQ Burn,38.174368,-84.922301,Franklin,Kyle Sams,KDFWR,6,95,Grass - Moderate,Unknown,Hand,,,7,Low,8,3/28/2019,Private
+3/5/2018,Green Brier/ Deer Creek,38.195466,-82.985744,Carter,Jimmy Woods,KDFWR,34,95,Litter - Moderate,Unknown,Hand,,,7,Low,7,3/24/2014,Private
+4/2/2019,Bills Branch Unit,38.195649,-83.012054,Elliott,James Woods,KDFWR,126,50,Litter - Moderate,Unknown,Hand,,,6,Low,1,1/1/2015,Private
+3/20/2019,Deer Creek Green Brier Unit,38.207814,-82.987506,Carter,James Woods,KDFWR,802,75,Litter - Heavy,Unknown,Hand,,,6,Low,12,,Private
+1/27/2014,None,38.21813483,-84.86512783,Franklin,Jennifer Miller-KDAQ Test- Not a real burn,KY Division of Air Quality,1,50,Shrub - Moderate,50,Hand,,,5,Low,35,,Public
+3/5/2018,West Clifty Burn,38.227539,-83.01712,Carter,Jimmy Woods,KDFWR,48,85,Grass - Moderate,Unknown,Hand,,,8,Moderate,10,3/15/2016,Public
+3/13/2019,West Clifty Unit,38.22782,-83.017139,Carter,James Woods,KDFWR,48,85,Shrub - Moderate,Unknown,Hand,,,6,Low,1,,Private
+3/30/2016,Indian Creek Unit 2,38.25,-83.725,Bath,Jacob Stewart,KDFWR,84,90,Grass - Light,Unknown,Hand,,,8,Low,1,,Private
+3/28/2019,Indian Creek Unit 2,38.25,-83.72,Bath,Jacob Stewart,KDFWR,133,80,Grass - Moderate,Unknown,Hand,,,14,Moderate,11,3/15/2016,Public
+3/30/2016,Indian Creek Unit 1,38.251,-83.725,Bath,Jacob Stewart,KDFWR,18,60,Grass - Light,Unknown,Hand,,,9,Moderate,10,3/15/2016,Public
+9/20/2018,Long Run Burn,38.271,-85.405,Shelby,Chris Grasch,KDFWR,60,65,Grass - Heavy,Unknown,Hand,,,7,Low,1,3/15/2016,Public
+4/16/2019,McAlpine Area G,38.27632,-85.7887,Jefferson,Keith Chasteen,USACE,1.6,90,Shrub - Light,Unknown,Hand,,,7,Low,1,3/15/2016,Public
+4/5/2018,McAlpine Area A,38.277,-85.793,Jefferson,Keith Chasteen,USACE,1.5,95,Grass - Moderate,23,Hand,,,7,Low,1,3/15/2016,Public
+3/22/2019,Sullivan WMA,38.277,-84.826,Franklin,Chris Grasch,KDFWR,51,85,Grass - Heavy,Unknown,Hand,,,8,Moderate,1,3/15/2016,Public
+2/26/2019,Smith Tract,38.28,-83.81,Nicholas,Jacob Stewart,KDFWR,66,80,Grass - Moderate,Unknown,Hand,,,9,Moderate,1,,Public
+4/16/2019,McAlpine Area F,38.28039,-85.7872,Jefferson,Keith Chasteen,USACE,1.1,70,Grass - Light,Unknown,Hand,,,15,Moderate,10,3/15/2016,Public
+4/16/2019,McAlpine Locks Area E-1,38.2809,-85.78812,Jefferson,Keith Chasteen,USACE,4.5,70,Grass - Light,Unknown,Hand,,,8,Moderate,10,3/15/2016,Public
+4/9/2014,Veteran's Memorial WMA,38.30458333,-84.55736944,Scott,Dave Frederick,KDFWR,108,80,Grass - Heavy,Unknown,Hand,,,8,Low,10,3/15/2016,Public
+3/21/2014,Upper Unit Forest Burn 2,38.319,-83.897,Nicholas,Nathan Gregory,KDFWR,80,80,Litter - Heavy,Unknown,Hand,,,9,Moderate,1,3/15/2016,Public
+3/19/2019,Turkey Land,38.32,-83.88,Nicholas,Jacob Stewart,KDFWR,277,85,Shrub - Moderate,Unknown,Hand,,,9,Moderate,10,3/15/2016,Public
+3/23/2017,Hamilton Ridge Unit 1,38.3266,-83.8904,Nicholas,Jacob Stewart,KDFWR,209,85,Slash - Moderate,Unknown,Hand,,,4,Low,1,,Public
+3/16/2018,School House Ridge,38.3277,-83.8762,Nicholas,Jacob Stewart,KDFWR,182,80,Grass - Moderate,Unknown,Hand,,,7,Low,1,,Public
+3/11/2019,River Rd,38.33,-83.87,Nicholas,Jacob Stewart,KDFWR,442,75,Shrub - Moderate,Unknown,Hand,,,7,Low,1,,Public
+3/16/2018,Water Hole,38.3308,-83.8881,Nicholas,Jacob Stewart,KDFWR,203,80,Grass - Moderate,Unknown,Hand,,,7,Low,10,,Public
+3/9/2016,Hamilton Ridge,38.332,-83.896,Nicholas,Jacob Stewart,KDFWR,47,90,Grass - Heavy,Unknown,Hand,,,4,Moderate,12,4/4/2019,Public
+3/7/2016,Griffith Woods WMA,38.334,-84.354,Harrison,Josh Lillpop,KDFWR,20,80,Grass - Moderate,38,Hand,,,4,Low,3,4/3/2019,Public
+9/27/2013,None,38.33447983,-84.35438983,Harrison,Josh Lillpop,KDFWR,18,50,Shrub - Light,40,Hand,,,7,Low,12,4/2/2019,Public
+3/24/2014,Griffith Woods,38.33587,-84.35439,Harrison,Josh Lillpop,KDFWR,70,80,Grass - Moderate,0,Hand,,,5,Low,12,4/3/2019,Public
+3/10/2017,Turkey Land UNit 2,38.3373,-83.8981,Nicholas,Jacob Stewart,KDFWR,233,90,Slash - Moderate,Unknown,Hand,,,7,Low,4,4/2/2019,Public
+4/5/2018,Belts,38.3399,-83.8651,Nicholas,Jacob Stewart,KDFWR,422,75,Grass - Moderate,Unknown,Hand,,,7,Low,4,4/3/2019,Public
+3/27/2019,Viewing Area,38.34,-83.9,Nicholas,Jacob Stewart,KDFWR,628,50,Shrub - Moderate,Unknown,Hand,,,10,Moderate,29,3/28/2019,Public
+3/9/2016,Turkey Land Unit 1,38.341,-83.889,Nicholas,Jacob Stewart,KDFWR,127,75,Litter - Moderate,Unknown,Hand,,,7,Low,18,3/1/2016,Public
+3/31/2015,Clay WMA- Belts,38.343,-83.865,Nicholas,Jacob Stewart,KDFWR,188,75,Slash - Moderate,Unknown,Hand,,,7,Low,18,3/1/2016,Public
+4/3/2013,None,38.34326778,-83.87278528,Nicholas,Nathan Gregory,KDFWR,40,75,Litter - Moderate,Unknown,Hand,,,7,Low,18,3/1/2016,Public
+3/3/2018,Coon Creek/Bedini,38.3465,-83.9319,Nicholas,Jacob Stewart,KDFWR,51,70,Grass - Moderate,Unknown,Hand,,,7,Low,18,3/1/2016,Public
+3/29/2016,River Road Unit 3,38.348,-83.878,Nicholas,Jacob Stewart,KDFWR,326,70,Litter - Moderate,Unknown,Hand,,,7,Low,2,,Public
+2/25/2019,Lower Unit 7,38.35,-83.92,Nicholas,Jacob Stewart/Cody Rhoden,KDFWR,17,85,Grass - Moderate,Unknown,Hand,,,5,Low,1,4/20/2018,Public
+2/25/2019,T-57 Unit3,38.35,-83.93,Nicholas,Jacob Stewart/Cody Rhoden,KDFWR,51,90,Grass - Moderate,Unknown,Hand,,,5,Low,1,4/20/2018,Public
+3/13/2019,Bailey Unit 2,38.35,-83.86,Fleming,Jacob Stewart,KDFWR,95,70,Grass - Moderate,Unknown,Hand,,,5,Low,10,,Public
+3/21/2013,None,38.35001944,-84.35001944,Harrison,Josh Lillpop,KDFWR,102,90,Grass - Moderate,40,Hand,,,8,Moderate,26,,Private
+3/8/2016,Lower Unit 7,38.351,-83.929,Nicholas,Jacob Stewart,KDFWR,17,90,Grass - Moderate,Unknown,Hand,,,12,Low,1,,Private
+2/16/2017,River Road,38.3522,-83.8731,Nicholas,Jacob Stewart,KDFWR,347,85,Grass - Heavy,Unknown,Hand,,,10,Low,1,3/15/2015,Private
+3/8/2016,T-57 Unit 3,38.353,-83.938,Nicholas,Jacob Stewart,KDFWR,50,90,Grass - Moderate,Unknown,Hand,,,11,Moderate,10,,Private
+4/1/2015,Clay WMA-Bailey Tract Unit 2,38.355,-83.867,Fleming,Jacob Stewart,KDFWR,45,80,Grass - Heavy,Unknown,Hand,,,12,Moderate,14,,Private
+3/18/2016,Bailey Unit 4,38.356,-83.856,Fleming,Jacob Stewart,KDFWR,50,90,Grass - Moderate,Unknown,Hand,,,10,Low,1,,Private
+3/15/2018,Bailey Unit 1,38.3572,-83.8572,Fleming,Jacob Stewart,KDFWR,135,90,Grass - Moderate,Unknown,Hand,,,5,Low,1,,Private
+3/7/2016,T-57 Unit 2,38.359,-83.936,Nicholas,Jacob Stewart,KDFWR,5.5,100,Grass - Moderate,Unknown,Hand,,,5,Low,1,3/15/2014,Private
+3/3/2018,T-57Unit 1,38.3598,-83.9361,Nicholas,Jacob Stewart,KDFWR,42,95,Grass - Moderate,Unknown,Hand,,,7,Low,26,,Public
+2/25/2019,Gray Unit,38.36,-83.86,Fleming,Nathan Gregory,KDFWR,20,90,Grass - Heavy,Unknown,Hand,,,7,Low,1,,Public
+2/15/2017,T-57 Unit 1,38.3619,-83.9377,Nicholas,Jacob Stewart,KDFWR,61,100,Grass - Moderate,Unknown,Hand,,,8,Low,1,,Public
+3/9/2017,Viewing Area,38.3619,-83.8991,Nicholas,Jacob Stewart,KDFWR,179,70,Shrub - Moderate,Unknown,Hand,,,8,Low,1,,Public
+4/1/2015,Clay WMA-Bailey Tract Unit 1,38.362,-83.865,Fleming,Jacob Stewart,KDFWR,16,90,Grass - Moderate,Unknown,Hand,,,5,Low,1,,Public
+3/29/2016,Lower Unit 10,38.362,-83.909,Nicholas,Jacob Stewart,KDFWR,102,85,Grass - Heavy,Unknown,Hand,,,5,Low,1,,Public
+3/3/2017,Gray Unit1,38.3627,-83.8779,Fleming,Jacob Stewart,KDFWR,19.7,95,Grass - Heavy,Unknown,Hand,,,5,Low,1,,Public
+3/3/2017,Bailey Unit 1,38.3629,-83.8642,Fleming,Jacob Stewart,KDFWR,45.4,95,Grass - Moderate,Unknown,Hand,,,5,Low,1,,Private
+3/9/2018,Gray Unit 1,38.3629,-83.8779,Fleming,Jacob Stewart,KDFWR,41,95,Grass - Heavy,Unknown,Hand,,,5,Low,1,,Public
+2/28/2014,Ratliff_Unit1,38.364,-83.936,Nicholas,Nathan Gregory,KDFWR,90,90,Grass - Moderate,Unknown,Hand,,,5,Low,1,,Public
+4/1/2015,Clay WMA-Gray Tract,38.365,-83.877,Fleming,Jacob Stewart,KDFWR,24,95,Grass - Moderate,Unknown,Hand,,,8,Low,10,,Private
+3/8/2016,Gray Unit 1,38.365,-83.873,Fleming,Jacob Stewart,KDFWR,20,95,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Private
+3/13/2019,Booth Unit 20,38.38,-83.86,Fleming,Jacob Stewart,KDFWR,54,95,Grass - Moderate,Unknown,Hand,,,7,Low,1,,Private
+3/18/2015,Booth Unit 5,38.385,-83.868,Fleming,Jacob Stewart,KDFWR,23,80,Grass - Moderate,Unknown,Hand,,,8,Low,10,,Private
+3/8/2016,Booth Unit 20,38.385,-83.866,Fleming,Jacob Stewart,KDFWR,47,90,Grass - Moderate,Unknown,Hand,,,7,Low,10,,Private
+3/14/2013,None,38.38579167,-83.86575833,Fleming,Nathan Gregory,KDFWR,47,90,Grass - Moderate,Unknown,Hand,,,7,Low,1,,Private
+3/4/2017,Booth Tract Unit 2,38.3889,-83.8721,Fleming,Jacob Stewart,KDFWR,84,90,Litter - Moderate,Unknown,Hand,,,13,Low,1,,Private
+3/4/2018,Booth Unit 1,38.3919,-83.8776,Fleming,Jacob Stewart,KDFWR,165,80,Grass - Moderate,Unknown,Hand,,,5,Low,1,,Public
+2/13/2017,Booth Tract Unit 1,38.3937,-83.8742,Fleming,Jacob Stewart,KDFWR,57.2,95,Grass - Heavy,Unknown,Hand,,,6,Low,1,,Public
+3/23/2015,Clay WMA-Webb Tract,38.394,-83.864,Fleming,Jacob Stewart,KDFWR,34,85,Grass - Moderate,Unknown,Hand,,,6,Low,1,,Public
+2/27/2018,Webb Unit 1,38.3944,-83.8563,Fleming,Jacob Stewart,KDFWR,60,80,Grass - Moderate,Unknown,Hand,,,13,Low,1,,Private
+2/29/2016,Booth Unit 25,38.395,-83.88,Fleming,Jacob Stewart,KDFWR,10,90,Grass - Moderate,Unknown,Hand,,,5,Low,1,,Public
+2/29/2016,Booth Unit 10.5,38.396,-83.876,Fleming,Jacob Stewart,KDFWR,10,80,Grass - Moderate,Unknown,Hand,,,6,Low,1,,Public
+2/27/2018,Booth Unit 3,38.3962,-83.8739,Fleming,Jacob Stewart,KDFWR,25,80,Grass - Moderate,Unknown,Hand,,,13,Moderate,26,,Private
+3/4/2018,Booth Unit 2,38.3988,-83.8787,Fleming,Jacob Stewart,KDFWR,25,80,Grass - Moderate,Unknown,Hand,,,14,Low,26,,Public
+3/18/2015,Booth Unit 1,38.4,-83.879,Fleming,Jacob Stewart,KDFWR,10,95,Grass - Moderate,Unknown,Hand,,,14,Low,26,,Public
+2/25/2019,Booth Unit 1,38.4,-83.81,Fleming,Nathan Gregory,KDFWR,57,90,Grass - Moderate,Unknown,Hand,,,8,Low,10,,Private
+3/20/2014,KRWMA Acree Tract,38.40913,-84.89513,Henry,Scott Ferrell,KDFWR,20,95,Grass - Light,Unknown,Hand,,,8,Low,1,,Private
+4/3/2019,Fleming WMA -Wallingford,38.41,-83.61,Fleming,Jacob Stewart,KDFWR,100,80,Grass - Moderate,Unknown,Hand,,,12,Low,10,,Public
+3/28/2016,Fleming WMA -Walingford,38.417,-83.609,Fleming,Jacob Stewart,KDFWR,95,80,Grass - Moderate,Unknown,Hand,,,11,Low,17,,Public
+9/24/2013,None,38.43555556,-84.95444444,Owen,Dave Frederick,KDFWR,56,60,Grass - Heavy,70,Hand,,,7,Low,26,,Public
+3/20/2014,KRWMA Gilbert I Tract,38.435556,-84.954444,Owen,Scott Ferrell,KDFWR,27,95,Grass - Moderate,Unknown,Hand,,,10,Low,13,,Private
+4/6/2018,Wheeler Burn,38.454,-85.013,Henry,Chris Grasch,KDFWR,16,100,Grass - Heavy,Unknown,Hand,,,8,Low,7,,Private
+4/2/2019,Joe LeMaster Burn,38.599827,-83.101603,Lewis,Robert Lewis,KDFWR,14,70,Grass - Light,Unknown,Hand,,,7,Low,10,,Private
+4/2/2013,None,38.77425861,-84.60149722,Grant,Josh Lillpop,KDFWR,38,95,Grass - Moderate,40,Hand,,,9,Moderate,27,,Public
+10/1/2013,None,38.77425861,-84.60149722,Grant,Josh Lillpop,KDFWR,12,70,Grass - Heavy,50,Hand,,,9,Moderate,26,4/3/2019,Private
+8/26/2013,None,38.80491083,-84.605581,Kenton,Josh Lillpop,KDFWR,7,80,Grass - Light,50,Hand,,,10,Moderate,10,3/26/2019,Private
+3/23/2015,Crouch Bluff Road,37.2744,-88.421147,Livingston,Philip Sharp,KDFWR,95.6,95,Grass - Heavy,Unknown,Hand,,,8,Moderate,2,3/7/2016,Private
+3/11/2014,Bell Farm,37.2829,-87.3372,McLean,Tracy Bell,Private Landowner,15,100,Grass - Heavy,Unknown,Hand,,,8,Moderate,3,3/7/2016,Private
+4/24/2014,Joe O'Bryan Farm,37.3,-73.87,Grayson,Kevin Raymond,KDFWR,29.4,100,Grass - Moderate,2,Hand,,,10,Low,10,,Public
+3/27/2019,Bush Windham,37.35,-85.26,Marion,Chris Grasch Apprentice Bryan Cobban,KDFWR,30,95,Grass - Moderate,Unknown,Hand,,,10,Low,10,,Public
+3/27/2019,Sisters of Loretto,37.39,-136.84,Marion,Chris Grasch Apprentice Bryan Cobban,KDFWR,55,70,Grass - Moderate,Unknown,Hand,,,10,Low,10,,Public
+3/19/2016,Shaker Village-Conclave Demo.,37.49,-110.65,Mercer,Ben Robinson,KDFWR,15,85,Grass - Moderate,Unknown,Hand,,,10,Low,10,,Public
