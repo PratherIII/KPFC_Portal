@@ -1,6 +1,4 @@
 # 673-Final-Project
-Repository Hosting my final project for MAP673
-
 This page shows data of prescribed burns that have been documented with the Kentucky Prescribed Fire Council since initiation in 2013.
 
 In order to build this webpage, I used the BootStrap CSS styling to take advantage of their grid styling capabilities. In addition, It used the layoutit! tool to design the page with a user friendly interface.
